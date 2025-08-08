@@ -1,4 +1,4 @@
-# Micro SaaS Examples
+# Best Micro SaaS Tools
 
 A curated list of awesome tools for marketing, development, productivity, and more. Each tool is listed in its single most relevant category.
 
