@@ -266,6 +266,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
+*   [Toksta](https://www.toksta.com): AI Software Research Agent
 *   [Truelist](https://truelist.io/): Unlimited email validation for better marketing performance.
 *   [Vesta](https://www.vesta-app.com/): Transform your content into multiple platform-specific formats.
 *   [Wave Instagram Outreach](https://www.usewave.co/): Automate Instagram DMs to find prospects and generate leads effortlessly.
