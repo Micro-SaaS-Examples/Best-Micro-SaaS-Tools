@@ -154,6 +154,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [NextUpKit](https://www.nextupkit.com): Affordable starter kit to quickly build and launch feature-rich SaaS applications.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
+*   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
 *   [ScreenshotBuddy](https://screenshotbuddy.io/): API for generating screenshots and PDFs from URLs.
 *   [Solana Tracker](https://www.solanatracker.io): Solana Tracker is the best way to buy and track all Solana tokens.
 *   [Srcbook](https://srcbook.com): AI builds and publishes websites, no coding required.
