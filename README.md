@@ -297,6 +297,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Searchable ChatGPT](https://myextension.store/searchable-chatgpt/): Search GPT chats history.
 *   [Smmry](https://smmry.com/): AI tool makes short summaries from long texts easily.
 *   [Summara](https://summara.io/): AI-powered Chrome extension delivering instant YouTube video summaries and transcripts.
+*   [Trails](https://trails.so/): The easiest way to document your process
 *   [Unwatermark](https://unwatermark.ai/): Remove watermarks from your photos and videos.
 *   [Url Opener](https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en): Open multiple websites at once with a single click.
 *   [VibeStack](https://www.vibestack.io/): Discover, organize, and share top digital tools for creative workflows.
