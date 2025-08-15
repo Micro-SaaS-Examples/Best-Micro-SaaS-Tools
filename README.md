@@ -292,6 +292,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Onlime](https://onlime.app/): Secure, renewable-energy-powered cloud storage with GDPR compliance, cross-device sync, and AI photo search.
 *   [PaywallBuster](https://paywallbuster.com/): Remove Paywalls Instantly.
 *   [Promptly](https://searchpromptly.com/): Discover, create, and organize high-quality AI prompts for faster workflows.
+*   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera
 *   [Refinder AI](https://refinder.ai/): AI search tool that finds work information across all your apps.
 *   [Retext](https://www.retext.io): Mac app that automatically fills in text to save typing time.
 *   [Searchable ChatGPT](https://myextension.store/searchable-chatgpt/): Search GPT chats history.
