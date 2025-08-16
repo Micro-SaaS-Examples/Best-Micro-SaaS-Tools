@@ -110,6 +110,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Design
 
 *   [AI Brochure Generator](https://venngage.com/ai-tools/brochure-generator): Create professional brochures from simple prompts without any design experience.
+*   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [AI Watermark Remover](https://aiwatermarkremover.io/): Remove watermarks from images and videos with ease.
 *   [A1](https://www.a1.gallery/): A curated gallery of top website designs to inspire creativity and innovation.
 *   [Black Headshots](https://www.blackheadshots.com): AI headshots generator for black professionals.
