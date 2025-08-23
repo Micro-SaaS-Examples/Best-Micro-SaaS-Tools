@@ -309,6 +309,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Url Opener](https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en): Open multiple websites at once with a single click.
 *   [VibeStack](https://www.vibestack.io/): Discover, organize, and share top digital tools for creative workflows.
 *   [WADesk](https://wadesk.io/en): WhatsApp business management tool.
+*   [X-doc AI](https://x-doc.ai/): The most accurate AI translator.
 *   [Your Next Domain](https://yournextdomain.com): Find valuable domain names across millions of auctions.
 
 ### Social
