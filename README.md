@@ -169,6 +169,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
 *   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
+*   [waveon.io](https://www.waveon.io): AI landing page builder.
 
 ### Education
 
