@@ -244,6 +244,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Convert.ai](https://convert.ai/): AI-powered platform that books qualified meetings with executive decision-makers fast.
 *   [CowboyQuote](https://cowboyquote.com/): Door-to-door sales with digital quotes and personalized customer interactions.
 *   [Find Me Creators](https://www.findmecreators.com/database): The most powerful and affordable TikTok micro-influencer database.
+*   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
 *   [Gauge](https://withgauge.com/): Gauge helps companies show up when customers ask AI questions.
 *   [Go Big Reviews](https://gobigreviews.com): Boost online reputation via seamless review management.
 *   [Hublead](https://www.hublead.io): Hublead connects LinkedIn with HubSpot, making sales data management quick and simple.
