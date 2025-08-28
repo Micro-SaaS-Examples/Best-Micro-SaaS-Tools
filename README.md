@@ -41,6 +41,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Patronum](https://www.patronum.io): Streamline Google Workspace management with automated compliance, governance, and collaboration tools.
 *   [Poshwatch](https://poshwatch.io/): Task automation tool for resellers.
 *   [RabbitHoles AI](https://www.rabbitholes.ai): Infinite canvas for AI conversations.
+*   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams
 *   [Velory](https://velory.com/): Automate your entire IT equipment lifecycle from ordering to retirement.
 *   [Voice Command](https://myextension.store/voice-command/): Control your browser with voice commands for faster, hands-free browsing.
 *   [Zippy Delivery](https://zippydelivery.app/): Automatically upload Zoom recordings to YouTube with smart titles and summaries.
