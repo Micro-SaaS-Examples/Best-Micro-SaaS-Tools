@@ -292,6 +292,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Coin Newsify](https://www.coinewsify.ai): AI powered crypto news platform for quick and smart trading decisions.
 *   [Digital Notes](https://digitalnotes.com): Offline-ready notes sync automatically, link ideas, and ensure seamless organization.
 *   [Endura](https://www.endura.digital/): Digital Estate Manager.
+*   [Gmail Templates](https://chromewebstore.google.com/detail/gmail-templates/kaeijgdoncmgjmfdnhaokghffemedkgh): Text Expander Chrome
 *   [GPT Reader](https://gpt-reader.com/): AI-powered tool that turns text into realistic speech for effortless listening.
 *   [GuideToDocs](https://guidetodocs.com/): Step by step instructions creation tool.
 *   [Inbox Zapper](https://www.inboxzapper.com/): Your Digital Bouncer for Email Clutter.
