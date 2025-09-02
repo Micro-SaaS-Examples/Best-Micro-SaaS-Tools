@@ -207,6 +207,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### Health & Lifestyle
 
+*   [Amino: Supplement Scanner](https://aminohealth.app/): AI-powered supplement scanner and tracker for clean, safe choices.
 *   [ARIA - AI Parenting Support](https://aria-ai.augmentedstartups.com/): AI-powered assistant offering personalized, expert parenting support for every family.
 *   [BULK](https://www.bulkapp.io): Streamline and simplify your coaching business.
 *   [Breathworx](https://breathworx.com): Breathwork for stress relief, decision clarity, & happier mood.
