@@ -217,6 +217,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [FamilyPro](https://familypro.io): Enjoy premium subscriptions for lowest price with FamilyPro.
 *   [Flirt](https://flirtos.com/): Craft perfect dating app responses, build standout profiles, and spark meaningful connections.
 *   [Medidex Connect](https://medidex.chat): Chat with a pharmacist online.
+*   [MyNextInk](https://www.mynextink.com): The all-in-one tattoo platform
 *   [Paralino](https://paralino.com/): Private, encrypted location sharing app for families, travelers, and privacy-conscious users.
 *   [Presence](https://presence.app/): Meditation app with expert guidance for daily peace and wellness.
 *   [Shelter](https://getshelter.co/): Securely store and share important info so loved ones can access it.
