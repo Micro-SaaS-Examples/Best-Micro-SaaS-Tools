@@ -179,6 +179,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CasperPractice](https://casperpractice.org): AI-powered platform helps students prepare for Casper test at affordable price.
 *   [Certifast](https://certifast.co/intl/en-us): Make professional certificates in one click.
 *   [ClassX](https://classx.org/): AI-powered platform for personalized learning, homework help, and teacher tools.
+*   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
 *   [Exam Samurai](https://www.examsamur.ai/): AI Exam Generator.
 *   [Homeworkify](https://homeworkify.app/): AI tool providing instant homework solutions and personalized study assistance.
 *   [Homeworkify by Tutor AI](https://tutorai.me/homeworkify): Your AI-Powered Learning Companion.
