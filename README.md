@@ -57,6 +57,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
 *   [Outlier Kit](https://outlierkit.com/): Find profitable YouTube niches and keywords with low competition, high revenue.
+*   [PodcastAdBlock](https://podcastadblock.app/): Remove ads from any podcast feed with AI.
 *   [Podcast Clip Maker](https://recast.studio/tools/podcast-clip-maker): Automatically generate podcast clips from long-form video and audio.
 *   [Podcast Maker](https://podcastmaker.ai): Transform written content into AI-generated audio.
 *   [Remusic](https://remusic.ai/en): Create songs with one click.
