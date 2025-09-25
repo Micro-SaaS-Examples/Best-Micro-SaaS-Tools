@@ -80,6 +80,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Pulsed](https://www.pulsed.me/): Free interactive platform for creating live polls with real-time feedback.
 *   [RentalFinder](https://www.rentalfinder.nl/): Automatic rental finder for Dutch homes with alerts and smart search.
 *   [Scribbl](https://www.scribbl.co): Records, transcribe, and summarize meetings.
+*   [SimplePerf](https://buddieshr.com/simpleperf): A simple, guided 360° performance review tool made for small teams
 *   [Stellafai](https://www.stellafai.com/): The strategy execution toolkit for goal-oriented teams.
 *   [TimeShot](https://timeshot.io/): Track security guards and staff with simple mobile patrol app system.
 *   [Vaiz](https://vaiz.com/): All-in-one workspace for tasks, docs, code, and team collaboration.
