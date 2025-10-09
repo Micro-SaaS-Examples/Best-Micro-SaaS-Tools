@@ -166,6 +166,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent
 *   [ScreenshotBuddy](https://screenshotbuddy.io/): API for generating screenshots and PDFs from URLs.
+*   [seenode](https://seenode.com): Developer cloud for full-stack apps
 *   [Solana Tracker](https://www.solanatracker.io): Solana Tracker is the best way to buy and track all Solana tokens.
 *   [Srcbook](https://srcbook.com): AI builds and publishes websites, no coding required.
 *   [StarOps](https://ingenimax.ai/): Deploy models and manage cloud infrastructure without dedicated DevOps teams.
