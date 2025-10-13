@@ -209,6 +209,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Nook Savings](http://nookapp.xyz/): Saving app that earns 3x more than your bank account.
 *   [Panem](https://panem.co): AI Powered SaaS Spend Management.
 *   [Receipt Faker](https://receiptfaker.com/): Make receipts fast with easy templates you can edit and download.
+*   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly.
 *   [Tax Brackets](https://taxbrackets.io/): TaxBrackets.io instantly estimates global income taxes.
 *   [Valinor Finance](https://www.valinorfinance.com/): Review platform built specifically for finding financial advisors.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Track top wallets and trades across blockchains with real-time insights.
