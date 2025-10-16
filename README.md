@@ -78,6 +78,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
+*   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
 *   [ProxDeal](https://proxdeal.com): AI tool simplifies M&A research, target identification, and personalized outreach.
 *   [Pulsed](https://www.pulsed.me/): Free interactive platform for creating live polls with real-time feedback.
