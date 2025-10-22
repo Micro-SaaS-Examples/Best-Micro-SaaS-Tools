@@ -216,6 +216,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Valinor Finance](https://www.valinorfinance.com/): Review platform built specifically for finding financial advisors.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Track top wallets and trades across blockchains with real-time insights.
 *   [Zola Analytics](https://www.zolaanalytics.com/): Turn financial data into instant charts and reports using simple language.
+*   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
 
 ### Health & Lifestyle
 
