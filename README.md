@@ -149,6 +149,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [BugSmash](https://bugsmash.io/): Collaborative tool for seamless feedback, annotations, and project reviews across teams.
 *   [CaptureKit](https://www.capturekit.dev/): Powerful API for automating web content extraction and screenshot capture.
 *   [ChatterBox](https://chatter-box.io/): Connect your software to Zoom, Meet, and Teams through one API.
+*   [CloudRay](https://cloudray.io): a centralised platform for managing servers, organizing Bash scripts, and automating infrastructure tasks across cloud and virtual machines.
 *   [Coco Alemana](https://www.cocoalemana.com/): Visual platform to explore, clean, and analyze large datasets with SQL support.
 *   [Context Data](https://contextdata.ai/): Data Processing & ETL infrastructure for Generative AI applications.
 *   [Dynamiq](https://www.getdynamiq.ai/): The Operating Platform for GenAI Applications.
