@@ -178,6 +178,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [SvelteLaunch](https://sveltelaunch.io): Svelte 5 Boilerplate for building AI apps quickly.
 *   [Swapcode AI](https://swapcode.ai/): AI tools for faster coding: convert, generate, debug, and optimize effortlessly.
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
+*   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
 *   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
 
