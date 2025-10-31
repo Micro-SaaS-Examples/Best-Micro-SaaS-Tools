@@ -24,6 +24,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### AI & Automation
 
+*   [Agent Security](https://agentsecurity.com): Security for AI agents.
 *   [AI Cover Letter Generator](https://www.aicoverlettergenerator.app/): Get hired faster with AI personalized cover letters.
 *   [AI for Google Slides](https://www.aiforgoogleslides.com/): Create professional presentations in minutes.
 *   [AI PowerPoint Maker](https://aipowerpointmaker.com/): AI presentation generator for PowerPoint.
