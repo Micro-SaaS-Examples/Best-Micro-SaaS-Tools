@@ -321,6 +321,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Inbox Zapper](https://www.inboxzapper.com/): Your Digital Bouncer for Email Clutter.
 *   [Kenteken Gids](https://www.kentekengids.nl): Dutch Car License Plate Checker.
 *   [Me Bot](https://www.me.bot/): Turn your ideas into an AI life coach.
+*   [My Passion AI](https://mypassion.ai): AI-powered quiz to find your passion career path.
 *   [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga): Night mode for Chrome: dark theme, yellow filter & text resize
 *   [Onlime](https://onlime.app/): Secure, renewable-energy-powered cloud storage with GDPR compliance, cross-device sync, and AI photo search.
 *   [PaywallBuster](https://paywallbuster.com/): Remove Paywalls Instantly.
