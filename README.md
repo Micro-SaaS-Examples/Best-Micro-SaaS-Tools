@@ -202,6 +202,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Socratic Owl](https://apps.apple.com/us/app/socratic-owl-question-answer/id6502917782): AI study app that gives clear step-by-step homework help anytime.
 *   [Stackd](https://www.stackd.so): 1-on-1 mentorship for GTM professionals to grow, upskill, and succeed.
 *   [StoryCraftr](https://www.storycraftr.ai/): Hyperpersonalized stories for kids with AI.
+*   [Studyaura.app](https://www.studyaura.app): Turn PDFs into Viral Study Material.
 
 ### Finance
 
