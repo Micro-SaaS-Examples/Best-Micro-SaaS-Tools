@@ -40,6 +40,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Nudge AI](https://getnudgeai.com/): AI-powered tool that streamlines clinical notes, billing, and documentation workflows.
 *   [Palm](https://www.getpalm.com/): Simplifies small business management with automated filings and secure data storage.
 *   [Patronum](https://www.patronum.io): Streamline Google Workspace management with automated compliance, governance, and collaboration tools.
+*   [Poison Pill](https://poisonpill.ai): Invisible protection against AI training.
 *   [Poshwatch](https://poshwatch.io/): Task automation tool for resellers.
 *   [RabbitHoles AI](https://www.rabbitholes.ai): Infinite canvas for AI conversations.
 *   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams
