@@ -91,6 +91,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Stellafai](https://www.stellafai.com/): The strategy execution toolkit for goal-oriented teams.
 *   [TimeShot](https://timeshot.io/): Track security guards and staff with simple mobile patrol app system.
 *   [Vaiz](https://vaiz.com/): All-in-one workspace for tasks, docs, code, and team collaboration.
+*   [Vantage Charts](https://monday.com/marketplace/listing/10000927/vantage-charts-): Custom Charts for Monday.com.
 *   [Your eCom Agent](https://yourecomagent.com/): AI Tools for Amazon Sellers.
 *   [boardcycle](https://www.boardcycle.com/): Automated board meeting platform for efficient agenda and minute management.
 *   [goDeskless](https://godeskless.com/): AI-driven goDeskless optimizes field service and boosts customer satisfaction.
