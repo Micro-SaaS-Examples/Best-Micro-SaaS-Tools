@@ -78,6 +78,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
+*   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
