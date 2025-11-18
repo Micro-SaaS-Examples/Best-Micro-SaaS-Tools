@@ -170,6 +170,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [NeuralTrust](https://neuraltrust.ai/): Secure and scalable AI solutions for enterprise applications and services.
 *   [Next9](https://www.next9.ai/): AI-powered platform streamlining on-call management, incident resolution, and seamless team handoffs.
 *   [NextUpKit](https://www.nextupkit.com): Affordable starter kit to quickly build and launch feature-rich SaaS applications.
+*   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
 *   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
