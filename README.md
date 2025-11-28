@@ -29,6 +29,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AI for Google Slides](https://www.aiforgoogleslides.com/): Create professional presentations in minutes.
 *   [AI PowerPoint Maker](https://aipowerpointmaker.com/): AI presentation generator for PowerPoint.
 *   [AI Wedding Toast](http://aiweddingtoast.com/): Generate a personalized wedding speech with AI.
+*   [Aigazine](https://aigazine.com): The Go-To Source for AI Benchmarks, News, Research & Industry Insights.
 *   [Candor](https://www.candor.so/): AI-driven platform automating continuous feedback for better team performance.
 *   [Composed](https://getcomposed.io/): AI tool that creates natural, confident, and flirty dating message replies.
 *   [Competitor Research](https://www.competitoresearch.com/): AI tool to help companies track their competitors.
