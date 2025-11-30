@@ -208,6 +208,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Stackd](https://www.stackd.so): 1-on-1 mentorship for GTM professionals to grow, upskill, and succeed.
 *   [StoryCraftr](https://www.storycraftr.ai/): Hyperpersonalized stories for kids with AI.
 *   [Studyaura.app](https://www.studyaura.app): Turn PDFs into Viral Study Material.
+*   [InterSub](https://intersub.cc): Language Learning with Dual Subtitles & AI Translation.
 
 ### Finance
 
