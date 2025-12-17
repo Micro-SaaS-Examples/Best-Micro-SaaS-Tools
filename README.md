@@ -149,6 +149,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min): Instant AI-powered UX feedback for prototypes directly inside Figma.
 *   [Venngage AI Infographic Generator](https://venngage.com/ai-tools/infographic-generator): Turn text prompts into customizable, professional infographics in just seconds.
 *   [iColoring](https://icoloring.ai): Free AI tool that turns text into custom coloring pages.
+*   [EnhancePhoto AI](https://enhancephoto.ai/): Free image Enhancer
 
 ### Developer Tools
 
