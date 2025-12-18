@@ -371,6 +371,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Decopy AI](https://decopy.ai): Free tool to identify AI generated content.
 *   [Lede](https://thelede.ai): Generate In-Depth Blog Content.
+*   [MyDetector](https://mydetector.ai/): Accurate AI Content Detector for ChatGPT and other tools.
 *   [Plooma](https://www.plooma.ink/): All-in-one writing software that helps authors create, edit, and organize books.
 *   [Spell](https://spellapp.com/): AI document editor for instant drafts, simple edits, and team collaboration.
 *   [The Birthday Poem](https://www.thebirthdaypoem.com/): Create personalized AI-generated birthday poems instantly, perfect for sharing or gifting.
