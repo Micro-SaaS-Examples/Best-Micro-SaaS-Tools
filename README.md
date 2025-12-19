@@ -370,6 +370,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### Writing
 
+*   [AI Plagiarism Checker](https://aiplagiarismchecker.io/): Ensure originality in your writing with our powerful plagiarism checker.
 *   [Decopy AI](https://decopy.ai): Free tool to identify AI generated content.
 *   [Lede](https://thelede.ai): Generate In-Depth Blog Content.
 *   [MyDetector](https://mydetector.ai/): Accurate AI Content Detector for ChatGPT and other tools.
