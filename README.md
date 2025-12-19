@@ -349,6 +349,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Unwatermark](https://unwatermark.ai/): Remove watermarks from your photos and videos.
 *   [Url Opener](https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en): Open multiple websites at once with a single click.
 *   [VibeStack](https://www.vibestack.io/): Discover, organize, and share top digital tools for creative workflows.
+*   [Voibe](https://www.getvoibe.com): Fast, private, on device AI voice dictation app for Mac.
 *   [WADesk](https://wadesk.io/en): WhatsApp business management tool.
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator.
