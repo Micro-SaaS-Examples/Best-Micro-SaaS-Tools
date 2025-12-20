@@ -209,6 +209,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [StoryCraftr](https://www.storycraftr.ai/): Hyperpersonalized stories for kids with AI.
 *   [Studyaura.app](https://www.studyaura.app): Turn PDFs into Viral Study Material.
 *   [InterSub](https://intersub.cc): Language Learning with Dual Subtitles & AI Translation.
+*   [NoteGPT](https://notegpt.com/): AI note-taking app that records, transcribes, and summarizes lectures.
 
 ### Finance
 
