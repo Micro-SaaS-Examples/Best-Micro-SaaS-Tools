@@ -126,6 +126,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### Design
 
+*   [AI Anime](https://aianime.io/): AI Anime Generator.
 *   [AI Brochure Generator](https://venngage.com/ai-tools/brochure-generator): Create professional brochures from simple prompts without any design experience.
 *   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [AI Timeline Generator](https://venngage.com/ai-tools/timeline-generator): Turn ideas into stunning timelines in seconds—powered by smart AI
