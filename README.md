@@ -184,6 +184,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Staclo Host](https://staclo.host): Host static sites with secure SSL, custom domains, and instant updates.
 *   [SvelteLaunch](https://sveltelaunch.io): Svelte 5 Boilerplate for building AI apps quickly.
 *   [Swapcode AI](https://swapcode.ai/): AI tools for faster coding: convert, generate, debug, and optimize effortlessly.
+*   [TestSprite](https://www.testsprite.com/): The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
