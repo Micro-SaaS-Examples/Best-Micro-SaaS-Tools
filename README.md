@@ -231,6 +231,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly.
 *   [Tax Brackets](https://taxbrackets.io/): TaxBrackets.io instantly estimates global income taxes.
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
+*   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
 *   [Valinor Finance](https://www.valinorfinance.com/): Review platform built specifically for finding financial advisors.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Track top wallets and trades across blockchains with real-time insights.
 *   [Zola Analytics](https://www.zolaanalytics.com/): Turn financial data into instant charts and reports using simple language.
