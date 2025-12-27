@@ -150,6 +150,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Unblurimage AI](https://unblurimage.ai/): Enhance photos using AI, making blurry pictures clear and beautiful.
 *   [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min): Instant AI-powered UX feedback for prototypes directly inside Figma.
 *   [Venngage AI Infographic Generator](https://venngage.com/ai-tools/infographic-generator): Turn text prompts into customizable, professional infographics in just seconds.
+*   [Video Watermark Remover](https://videowatermarkremover.ai/): Remove video watermarks online for free.
 *   [iColoring](https://icoloring.ai): Free AI tool that turns text into custom coloring pages.
 
 ### Developer Tools
