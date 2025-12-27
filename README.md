@@ -273,6 +273,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [APAC Agencies](https://apacagencies.com): Discover the top creative and digital agencies in Asia Pacific.
 *   [AI One Pager Generator](https://venngage.com/ai-tools/one-pager-generator): AI-powered one-pager designs, fast and effortless.
 *   [AI Roadmap Generator](https://venngage.com/ai-tools/roadmap-generator): AI Roadmap Generator creates a visual, step-by-step roadmap instantly.
+*   [Appark](https://appark.ai/en): Free app market analytics for growth and competition insights.
 *   [BigSpy](https://bigspy.com): Discover winning ad strategies by analyzing 1B+ ads across 9 social platforms.
 *   [BlogFox](https://blogfox.ai): Generate impressive blogs from a Youtube video or SEO keywords at scale.
 *   [Boringlaunch](https://www.boringlaunch.com/): Submit Your Startup to 100+ Platforms In 7 Days.
