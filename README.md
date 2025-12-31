@@ -353,6 +353,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Smmry](https://smmry.com/): AI tool makes short summaries from long texts easily.
 *   [Summara](https://summara.io/): AI-powered Chrome extension delivering instant YouTube video summaries and transcripts.
 *   [Supercamp](https://supercamp.ai/): AI workspace for business
+*   [Text Zen - Text Expander](https://www.textzen.app/): Save time with web Text Expander shortcuts and power auto text snippets.
 *   [Trails](https://trails.so/): The easiest way to document your process
 *   [Unwatermark](https://unwatermark.ai/): Remove watermarks from your photos and videos.
 *   [Url Opener](https://chromewebstore.google.com/detail/url-opener/bebeelnjlafedkhklobpglpelcmidaee?hl=en): Open multiple websites at once with a single click.
