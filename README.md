@@ -314,6 +314,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Shosay](https://www.shosay.com): AI tool that collects and displays customer reviews in one place.
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
+*   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
 *   [Toksta](https://www.toksta.com): AI Software Research Agent
 *   [Truelist](https://truelist.io/): Unlimited email validation for better marketing performance.
