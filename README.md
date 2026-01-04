@@ -208,6 +208,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Notescast](https://notescast.app): Transform study materials into engaging, ADHD-friendly short-form educational videos.
 *   [Preschools Near Me](https://www.preschoolsnearme.org/): AI simplifies preschool search and applications with tailored recommendations for parents.
 *   [Small Talk](https://getsmalltalk.com/): Micro learning app delivers bite-sized daily knowledge effortlessly.
+*   [Socratic App](https://socraticapp.com/): AI homework helper that teaches students like a tutor.
 *   [Socratic Owl](https://apps.apple.com/us/app/socratic-owl-question-answer/id6502917782): AI study app that gives clear step-by-step homework help anytime.
 *   [Stackd](https://www.stackd.so): 1-on-1 mentorship for GTM professionals to grow, upskill, and succeed.
 *   [StoryCraftr](https://www.storycraftr.ai/): Hyperpersonalized stories for kids with AI.
