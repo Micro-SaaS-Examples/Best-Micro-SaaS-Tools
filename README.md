@@ -351,6 +351,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera
 *   [Refinder AI](https://refinder.ai/): AI search tool that finds work information across all your apps.
 *   [Retext](https://www.retext.io): Mac app that automatically fills in text to save typing time.
+*   [Reverse Image Search Tools](https://chromewebstore.google.com/detail/reverse-image-search-tool/hccicgceahocikgncfihpmkjamfpacpg): Search the web using any image.
 *   [Searchable ChatGPT](https://myextension.store/searchable-chatgpt/): Search GPT chats history.
 *   [Smmry](https://smmry.com/): AI tool makes short summaries from long texts easily.
 *   [Summara](https://summara.io/): AI-powered Chrome extension delivering instant YouTube video summaries and transcripts.
