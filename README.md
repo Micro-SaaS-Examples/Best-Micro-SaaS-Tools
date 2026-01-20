@@ -125,6 +125,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Chat Thing](http://chatthing.ai/): Make AI chatbots in minutes.
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent.
 *   [Rosie](https://heyrosie.com/): AI Phone Answering Service.
+*   [Vidocu](https://vidocu.ai/): Turn screen recordings into professional videos and documentation.
 *   [VirtualReception.AI](https://virtualreception.ai/): Your AI Answering Service. Never Miss a Call.
 
 ### Design
