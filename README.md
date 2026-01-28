@@ -290,6 +290,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Commenze](https://commenze.com/): No-code platform to create SEO-optimized pages at scale.
 *   [Convert.ai](https://convert.ai/): AI-powered platform that books qualified meetings with executive decision-makers fast.
 *   [CowboyQuote](https://cowboyquote.com/): Door-to-door sales with digital quotes and personalized customer interactions.
+*   [dnAI](https://humandnai.com/): Brand-first AI marketing platform.
 *   [Find Me Creators](https://www.findmecreators.com/database): The most powerful and affordable TikTok micro-influencer database.
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
