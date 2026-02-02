@@ -371,6 +371,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [VibeStack](https://www.vibestack.io/): Discover, organize, and share top digital tools for creative workflows.
 *   [Voibe](https://www.getvoibe.com): Fast, private, on device AI voice dictation app for Mac.
 *   [WADesk](https://wadesk.io/en): WhatsApp business management tool.
+*   [Word Cloud Generator](https://chromewebstore.google.com/detail/word-cloud-generator/ohdkpdnmamkdpmbcenpohkjhkmhnnfkf): Create word clouds from text.
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator.
 *   [Your Next Domain](https://yournextdomain.com): Find valuable domain names across millions of auctions.
