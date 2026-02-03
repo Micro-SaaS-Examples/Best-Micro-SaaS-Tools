@@ -105,6 +105,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Best PM Jobs](https://www.bestpmjobs.com/): Early access to verified PM roles at top tech companies.
 *   [Cactro](https://cactro.com/): Free coding test platform connecting tier-3 college developers with job interviews.
+*   [Calibration Framework](https://calibrationframework.com/): HR orchestration for managers to calibrate feedback.
 *   [Fantastic Portfolios](https://fantasticportfolios.com/): An AI-powered portfolio website builder within 30 seconds.
 *   [Hirebase](https://www.hirebase.org/): AI-powered job search engine and job market data provider.
 *   [JobSwift.AI](https://jobswift.ai/): AI assistant that simplifies job applications, tracks progress, and boosts results.
