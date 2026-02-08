@@ -293,6 +293,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Boringlaunch](https://www.boringlaunch.com/): Submit Your Startup to 100+ Platforms In 7 Days.
 *   [Campaign Link](https://www.campaignware.com/campaignlink): Generate short links, QR codes, and UTMs seamlessly with advanced features.
 *   [ChromeWinner](https://chromewinner.com): Daily insights on your Chrome extension performance and competitors.
+*   [Cobalt Studio Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/): Free cold email generator: 3 short templates + 5 subject lines (no signup).
 *   [Commenze](https://commenze.com/): No-code platform to create SEO-optimized pages at scale.
 *   [Convert.ai](https://convert.ai/): AI-powered platform that books qualified meetings with executive decision-makers fast.
 *   [CowboyQuote](https://cowboyquote.com/): Door-to-door sales with digital quotes and personalized customer interactions.
