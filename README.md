@@ -150,6 +150,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Device Mockup](https://devicemockup.com): We offer high quality premium device mockup for free.
 *   [DreamLADU](https://www.dreamladu.com/): Create and customize realistic ADU designs instantly using simple text descriptions.
 *   [FLUX AI ART](https://fluxaiart.ai/): AI-powered platform for image generation, editing, and free unlimited storage.
+*   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
 *   [ImgUpscaler AI](https://imgupscaler.ai/): Enhance and upscale images or videos with sharper, detailed, high-quality visuals.
 *   [Kosmik](https://www.kosmik.app/): Visual research app that auto-tags, organizes, and finds related content.
 *   [Pawtrait](https://www.pawtrait.art/): Custom AI pet portraits in 30+ styles.
