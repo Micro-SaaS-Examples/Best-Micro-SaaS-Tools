@@ -328,6 +328,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [SalesAgent Chat](https://www.salesagent.chat/): AI-powered coach and assistant to boost confidence and close more deals.
 *   [SalesStatsVisualize](https://salesstatsvisualize.com): Etsy Sales Simplified - Easy Listing, Deep Analysis.
 *   [Salesably](https://www.salesably.ai/): AI-driven sales coaching to enhance communication.
+*   [Say About Us](https://sayabout.us/): Collect unlimited video and text testimonials.
 *   [Shosay](https://www.shosay.com): AI tool that collects and displays customer reviews in one place.
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
