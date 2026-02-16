@@ -207,6 +207,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
 *   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
+*   [waveon.io](https://www.waveon.io): AI landing page builder.
 
 ### Education
 
