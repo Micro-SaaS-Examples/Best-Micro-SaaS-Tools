@@ -134,6 +134,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Design
 
 *   [AI Anime](https://aianime.io/): AI Anime Generator.
+*   [AI Book Cover Generator](https://venngage.com/ai-tools/book-cover-generator): Design eye-catching book covers with AI.
 *   [AI Brochure Generator](https://venngage.com/ai-tools/brochure-generator): Create professional brochures from simple prompts without any design experience.
 *   [AI Contract Generator](https://venngage.com/ai-tools/ai-contract-generator): Create clear, reliable contracts with AI.
 *   [AI Flowchart Generator](https://venngage.com/ai-tools/flowchart-generator): Turn ideas into clear, structured AI flowcharts.
