@@ -239,6 +239,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AllMyBills](https://allmybills.co/): Platform helps connect fans with creators to fund their monthly bills.
 *   [Bitzaro](https://www.bitzaro.com/): Comprehensive platform for secure crypto transactions and seamless fiat conversion.
 *   [BondSmartly](https://www.bondsmartly.com/): Simplify bond investing with real-time data, analysis, and powerful tools.
+*   [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses.
 *   [CryptoCardHub](https://www.cryptocardhub.com/): Compare crypto cards based on your real spending to maximize rewards.
 *   [Global Guru Capital](https://www.globalgurucap.com/): Discover microcap stocks primed for explosive growth with proven QVM strategy.
