@@ -312,6 +312,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
 *   [Gauge](https://withgauge.com/): Gauge helps companies show up when customers ask AI questions.
 *   [Go Big Reviews](https://gobigreviews.com): Boost online reputation via seamless review management.
+*   [Gro](https://thegro.ai/): AI Sales Agent for B2B Lead Generation.
 *   [Hooked AI](https://hookedai.ai/): HookedAI - AI-Powered LinkedIn Marketing.
 *   [Hublead](https://www.hublead.io): Hublead connects LinkedIn with HubSpot, making sales data management quick and simple.
 *   [KarmaLinks](https://karmalinks.io/): AI-driven platform for free, quality backlink exchange and SEO.
