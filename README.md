@@ -224,6 +224,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Exam Samurai](https://www.examsamur.ai/): AI Exam Generator.
 *   [Homeworkify](https://homeworkify.app/): AI tool providing instant homework solutions and personalized study assistance.
 *   [Homeworkify by Tutor AI](https://tutorai.me/homeworkify): Your AI-Powered Learning Companion.
+*   [Lorea](https://www.lorea.app/): The AI Study Game Generator.  
 *   [Mathos AI](https://www.mathgptpro.com/): The best AI math solver, calculator and tutor
 *   [Notescast](https://notescast.app): Transform study materials into engaging, ADHD-friendly short-form educational videos.
 *   [Preschools Near Me](https://www.preschoolsnearme.org/): AI simplifies preschool search and applications with tailored recommendations for parents.
