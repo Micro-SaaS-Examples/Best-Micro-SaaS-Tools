@@ -107,6 +107,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Best PM Jobs](https://www.bestpmjobs.com/): Early access to verified PM roles at top tech companies.
 *   [Cactro](https://cactro.com/): Free coding test platform connecting tier-3 college developers with job interviews.
+*   [4DayJob](https://4dayjob.com/): Job board focused on four-day work week positions across all industries, with 1,500+ curated listings and no paywall.
 *   [Calibration Framework](https://calibrationframework.com/): HR orchestration for managers to calibrate feedback.
 *   [Fantastic Portfolios](https://fantasticportfolios.com/): An AI-powered portfolio website builder within 30 seconds.
 *   [Hirebase](https://www.hirebase.org/): AI-powered job search engine and job market data provider.
@@ -174,6 +175,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### Developer Tools
 
+*   [API Status Check](https://apistatuscheck.com/): Real-time status monitoring dashboard for 190+ popular APIs including OpenAI, Stripe, AWS, and GitHub.
 *   [Best SaaS Boilerplates](https://saasboilerplates.dev): Curated boilerplates to simplify and accelerate SaaS development.
 *   [BugSmash](https://bugsmash.io/): Collaborative tool for seamless feedback, annotations, and project reviews across teams.
 *   [CaptureKit](https://www.capturekit.dev/): Powerful API for automating web content extraction and screenshot capture.
@@ -198,6 +200,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
 *   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
+*   [RatedWithAI](https://ratedwithai.com/): AI-powered website accessibility scanner that checks sites for ADA and WCAG 2.2 compliance with actionable fix suggestions.
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent
 *   [ScreenshotBuddy](https://screenshotbuddy.io/): API for generating screenshots and PDFs from URLs.
 *   [seenode](https://seenode.com): Developer cloud for full-stack apps
