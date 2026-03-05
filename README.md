@@ -38,6 +38,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [FirmOS](https://www.firmos.ai/): AI-powered automation platform for accounting firms to streamline sales, hiring, and operations.
 *   [Foundy](https://www.foundy.com): Sell your business or find quality acquisitions.
 *   [Lisapet.ai](https://www.lisapet.ai): Simply and speed up AI product development for teams.
+*   [LocalChat.app](https://www.localchat.app/): Local-first MacOS AI application - 100% Private, Works Fully Offline.
 *   [Marblism](https://marblism.com/): AI team that automates content, sales, inbox, and scheduling tasks.
 *   [Nudge AI](https://getnudgeai.com/): AI-powered tool that streamlines clinical notes, billing, and documentation workflows.
 *   [Palm](https://www.getpalm.com/): Simplifies small business management with automated filings and secure data storage.
