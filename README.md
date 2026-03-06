@@ -80,6 +80,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Alquilame](https://alquilame.io/): Simple rental management with WhatsApp booking and zero commission fees.
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
+*   [Daymark](https://www.usedaymark.io/): Natural language analytics across Shopify, Google Ads, Meta, HubSpot, and more.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
