@@ -203,6 +203,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ScreenshotBuddy](https://screenshotbuddy.io/): API for generating screenshots and PDFs from URLs.
 *   [seenode](https://seenode.com): Developer cloud for full-stack apps
 *   [Solana Tracker](https://www.solanatracker.io): Solana Tracker is the best way to buy and track all Solana tokens.
+*   [SpeedUp AI](https://speed-up.ai/): End-to-End AI Circuit Schematic Design.
 *   [Srcbook](https://srcbook.com): AI builds and publishes websites, no coding required.
 *   [StarOps](https://ingenimax.ai/): Deploy models and manage cloud infrastructure without dedicated DevOps teams.
 *   [Staclo Host](https://staclo.host): Host static sites with secure SSL, custom domains, and instant updates.
