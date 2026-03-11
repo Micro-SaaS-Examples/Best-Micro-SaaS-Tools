@@ -35,6 +35,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Composed](https://getcomposed.io/): AI tool that creates natural, confident, and flirty dating message replies.
 *   [Competitor Research](https://www.competitoresearch.com/): AI tool to help companies track their competitors.
 *   [Compass](https://www.getwhys.io/compass): AI-driven answers to SaaS research questions.
+*   [Consul](https://consul.so/): Executive Assistant That Runs Your Calendar, Inbox & Scheduling.
 *   [FirmOS](https://www.firmos.ai/): AI-powered automation platform for accounting firms to streamline sales, hiring, and operations.
 *   [Foundy](https://www.foundy.com): Sell your business or find quality acquisitions.
 *   [Lisapet.ai](https://www.lisapet.ai): Simply and speed up AI product development for teams.
