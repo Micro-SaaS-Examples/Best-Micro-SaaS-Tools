@@ -229,6 +229,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Homeworkify by Tutor AI](https://tutorai.me/homeworkify): Your AI-Powered Learning Companion.
 *   [Lorea](https://www.lorea.app/): The AI Study Game Generator.  
 *   [Mathos AI](https://www.mathgptpro.com/): The best AI math solver, calculator and tutor
+*   [MMIPractice.org](https://www.mmipractice.org/): Free practice questions and AI coaching for MMI prep.
 *   [Notescast](https://notescast.app): Transform study materials into engaging, ADHD-friendly short-form educational videos.
 *   [Preschools Near Me](https://www.preschoolsnearme.org/): AI simplifies preschool search and applications with tailored recommendations for parents.
 *   [Small Talk](https://getsmalltalk.com/): Micro learning app delivers bite-sized daily knowledge effortlessly.
