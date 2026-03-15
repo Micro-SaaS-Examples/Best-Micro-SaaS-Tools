@@ -60,6 +60,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Aeon](https://project-aeon.com/): AI-powered platform that simplifies video creation with text-to-video and automation tools.
 *   [Awesome Video Editor](https://awesomevideoeditor.com/): Simple tool for adding video subtitles quickly.
 *   [ContentStudio AI](https://contentstudioai.com): Transform Your Ideas into Automated Videos with AI.
+*   [PopcornAI](https://popcornai.art/): AI video and image generator for creators, short-form content, and ad creatives.
 *   [Earth.fm app](https://earth.fm/app/): The nature soundscapes streaming platform.
 *   [EchoWave](https://echowave.io): Online video editor.
 *   [FILMPAC](https://www.filmpac.com/): Premium stock footage and music for high-quality, authentic storytelling.
