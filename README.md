@@ -332,6 +332,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Meshr](https://meshr.link/): Boost SEO with automated, intelligent internal linking for better engagement.
 *   [MuckBrass](https://www.muckbrass.com/): Find & Validate Startup Ideas.
 *   [NowKnow](https://nowknow.ai): Fast and accurate market research through virtual customer feedback.
+*   [onmediamarket](https://www.onmediamarket.com/): Marketplace platform to connect clients with marketers and creators.
 *   [PersonaForce](https://personaforce.ai): AI marketing assistant that creates buyer personas instantly.
 *   [Persuva](http://persuva.ai/): Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 *   [Podify.io](https://podify.io): Leverage AI and community to grow on LinkedIn.
