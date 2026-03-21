@@ -381,6 +381,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PaywallBuster](https://paywallbuster.com/): Remove Paywalls Instantly.
 *   [Promptly](https://searchpromptly.com/): Discover, create, and organize high-quality AI prompts for faster workflows.
 *   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera
+*   [Ration](https://ration.mayutic.com/): AI-Powered Pantry & Meal Planning Platforms.
 *   [Refinder AI](https://refinder.ai/): AI search tool that finds work information across all your apps.
 *   [Retext](https://www.retext.io): Mac app that automatically fills in text to save typing time.
 *   [Reverse Image Search Tools](https://chromewebstore.google.com/detail/reverse-image-search-tool/hccicgceahocikgncfihpmkjamfpacpg): Search the web using any image.
