@@ -365,6 +365,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AISaver](https://aisaver.io): Free AI tool for video downloads, face swaps, and enhancements.
 *   [Alai](https://getalai.com): Create high quality presentations with AI.
 *   [Brackets Maker App](https://brackets.app/): Tournament brackets generator: round robin, single & double elimination.
+*   [BorderSense](https://bordersense.xyz/): Precision visa tracker and passport diary.
 *   [Chrome Reader Mode](https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en): Remove ads from web pages for clean, easy reading.
 *   [Coin Newsify](https://www.coinewsify.ai): AI powered crypto news platform for quick and smart trading decisions.
 *   [Digital Notes](https://digitalnotes.com): Offline-ready notes sync automatically, link ideas, and ensure seamless organization.
