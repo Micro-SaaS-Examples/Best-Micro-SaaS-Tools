@@ -89,6 +89,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
+*   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
