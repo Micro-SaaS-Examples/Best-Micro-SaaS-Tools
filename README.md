@@ -352,6 +352,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
+*   [TestimonialFlow](https://testimonialflow-kappa.vercel.app): Collect customer testimonials and embed them on any website in 2 minutes. Free tier + $9/mo Pro.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
 *   [Toksta](https://www.toksta.com): B2B Influencer Marketing Platform.
 *   [Truelist](https://truelist.io/): Unlimited email validation for better marketing performance.
