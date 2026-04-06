@@ -202,6 +202,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Omnara](https://www.omnara.com/): Command Center for AI Coding Agents.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
+*   [PostPeer](https://www.postpeer.dev/): Social media posting API for cross-platform posting and scheduling.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
 *   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent
