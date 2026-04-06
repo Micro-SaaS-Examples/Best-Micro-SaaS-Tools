@@ -224,7 +224,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Education
 
 *   [AI Tutor](https://ai-tutor.ai/): Personalized 24/7 learning for any subject.
-*   [Bookimagic](https://www.bookimagic.com/): Create personalized children’s books.
+*   [Bookimagic](https://www.bookimagic.com/): Create personalized children's books.
 *   [CasperPractice](https://casperpractice.org): AI-powered platform helps students prepare for Casper test at affordable price.
 *   [Certifast](https://certifast.co/intl/en-us): Make professional certificates in one click.
 *   [ClassX](https://classx.org/): AI-powered platform for personalized learning, homework help, and teacher tools.
@@ -373,7 +373,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Chrome Reader Mode](https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en): Remove ads from web pages for clean, easy reading.
 *   [Coin Newsify](https://www.coinewsify.ai): AI powered crypto news platform for quick and smart trading decisions.
 *   [Digital Notes](https://digitalnotes.com): Offline-ready notes sync automatically, link ideas, and ensure seamless organization.
-*   [Endura](https://www.endura.digital/): Digital Estate Manager.
+*   [Dioveo](https://dioveo.com): Find, extract, and organize Gmail attachments in bulk, with auto-upload to Google Drive, Dropbox, or OneDrive.
+*   [Endura](https://www.endura.digital/): Digital estate Manager.
 *   [Globie](https://globie.io/): Globie eSim for International Travelers.
 *   [Gmail Templates](https://chromewebstore.google.com/detail/gmail-templates/kaeijgdoncmgjmfdnhaokghffemedkgh): Text Expander Chrome
 *   [GPT Reader](https://gpt-reader.com/): AI-powered tool that turns text into realistic speech for effortless listening.
