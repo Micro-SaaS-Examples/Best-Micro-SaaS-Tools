@@ -261,6 +261,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Property Forecast](https://propertyforecast.co/): Data analytics for real estate investors.
 *   [Receipt Faker](https://receiptfaker.com/): Make receipts fast with easy templates you can edit and download.
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly.
+*   [SpendNode](https://www.spendnode.io): Independent crypto card reviews, issuer coverage, country guides, and market updates.
 *   [Tax Brackets](https://taxbrackets.io/): TaxBrackets.io instantly estimates global income taxes.
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
 *   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
