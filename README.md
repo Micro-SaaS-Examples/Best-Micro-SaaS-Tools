@@ -191,6 +191,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [FramerBite](https://framerbite.com/): FramerBite offers 100+ free & premium Framer templates.
 *   [Frontend AI](https://www.webcrumbs.org/frontend-ai): Your UI generated from prompts or images.
 *   [Hexabot](https://hexabot.ai): Open-Source AI Chatbot Builder.
+*   [Macro-Safe Converter Launch Kit](https://jbhihall-droid.github.io/macro-converter-kit/): Founder research kit for the file-conversion niche — keyword matrix, pricing model, and programmatic SEO plan for the macro-safe conversion wedge that CloudConvert and Zamzar skip.
 *   [Magic Potion](https://www.magicpotion.app/): Visual drag-and-drop tool for building and testing AI prompts easily.
 *   [Miruni](https://www.miruni.io): Streamlines website feedback and tasks for developers and agencies via live collaboration.
 *   [Mocha](https://getmocha.com/): Build websites easily from ideas without needing any coding experience.
