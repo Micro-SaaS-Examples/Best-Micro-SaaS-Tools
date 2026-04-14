@@ -71,6 +71,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PodcastAdBlock](https://podcastadblock.app/): Remove ads from any podcast feed with AI.
 *   [Podcast Clip Maker](https://recast.studio/tools/podcast-clip-maker): Automatically generate podcast clips from long-form video and audio.
 *   [Podcast Maker](https://podcastmaker.ai): Transform written content into AI-generated audio.
+*   [Podtastic](https://podtastic.app/): Podtastic is a podcast player powered by Pod-telligence.
 *   [Remusic](https://remusic.ai/en): Create songs with one click.
 *   [Smartshort](https://smartshort.co/): AI tool that creates short videos from text without filming.
 *   [Transgate](https://transgate.ai/): Quick, accurate speech-to-text tool that works in 50+ languages.
