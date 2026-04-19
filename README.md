@@ -277,6 +277,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Breathworx](https://breathworx.com): Breathwork for stress relief, decision clarity, & happier mood.
 *   [ChatSweetie](https://chatsweetie.ai/): Free AI girlfriend app.
 *   [ChefPandas](https://www.chefpandas.com/): AI tool for creating personalized meal plans and tailored recipes.
+*   * [DishRoll](https://dishroll.netlify.app/): AI-powered weekly meal planner that generates personalised 7-day menus based on cuisine preferences, dietary needs, and budget, with smart shopping list export to Alexa.
 *   [DreamjourneyAI](https://dreamjourneyai.com): Explore fantasies with AI roleplay, character chats, and RPGs.
 *   [FamilyPro](https://familypro.io): Enjoy premium subscriptions for lowest price with FamilyPro.
 *   [Flirt](https://flirtos.com/): Craft perfect dating app responses, build standout profiles, and spark meaningful connections.
