@@ -356,6 +356,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
 *   [Toksta](https://www.toksta.com): B2B Influencer Marketing Platform.
+*   [Top SaaS Directories](https://topsaasdirectories.com/): 100+ Top Directories and Launch Platforms to List your SaaS.
 *   [Truelist](https://truelist.io/): Unlimited email validation for better marketing performance.
 *   [Vesta](https://www.vesta-app.com/): Transform your content into multiple platform-specific formats.
 *   [Wave Instagram Outreach](https://www.usewave.co/): Automate Instagram DMs to find prospects and generate leads effortlessly.
