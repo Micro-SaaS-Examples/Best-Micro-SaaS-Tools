@@ -201,6 +201,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Next9](https://www.next9.ai/): AI-powered platform streamlining on-call management, incident resolution, and seamless team handoffs.
 *   [NextUpKit](https://www.nextupkit.com): Affordable starter kit to quickly build and launch feature-rich SaaS applications.
 *   [Omnara](https://www.omnara.com/): Command Center for AI Coding Agents.
+*   [Open Source Alternatives](https://www.opensourcealternatives.to): Handpicked Open Source Alternatives to Paid Softwares.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
 *   [PostPeer](https://www.postpeer.dev/): Social media posting API for cross-platform posting and scheduling.
