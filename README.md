@@ -381,6 +381,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gmail Templates](https://chromewebstore.google.com/detail/gmail-templates/kaeijgdoncmgjmfdnhaokghffemedkgh): Text Expander Chrome
 *   [GPT Reader](https://gpt-reader.com/): AI-powered tool that turns text into realistic speech for effortless listening.
 *   [GuideToDocs](https://guidetodocs.com/): Step by step instructions creation tool.
+*   [HeyRobyn](https://heyrobyn.ai): Native Mac unified inbox for email, Slack, and GitHub.
 *   [Inbox2Action](https://inbox2action.com): Turn Emails into Tasks in Seconds.
 *   [Inbox Zapper](https://www.inboxzapper.com/): Your Digital Bouncer for Email Clutter.
 *   [Kenteken Gids](https://www.kentekengids.nl): Dutch Car License Plate Checker.
