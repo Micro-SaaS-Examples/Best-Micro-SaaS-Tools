@@ -387,6 +387,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Me Bot](https://www.me.bot/): Turn your ideas into an AI life coach.
 *   [My Passion AI](https://mypassion.ai): AI-powered quiz to find your passion career path.
 *   [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga): Night mode for Chrome: dark theme, yellow filter & text resize
+*   [notetime](https://www.notetimeapp.com/): note taking app with automatic timestamps
 *   [Onlime](https://onlime.app/): Secure, renewable-energy-powered cloud storage with GDPR compliance, cross-device sync, and AI photo search.
 *   [PaywallBuster](https://paywallbuster.com/): Remove Paywalls Instantly.
 *   [Promptly](https://searchpromptly.com/): Discover, create, and organize high-quality AI prompts for faster workflows.
