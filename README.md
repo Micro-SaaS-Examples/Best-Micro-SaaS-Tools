@@ -92,6 +92,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
+*   [MyndField](https://myndfield.ai/): World's First Decision Engine.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
 *   [ProxDeal](https://proxdeal.com): AI tool simplifies M&A research, target identification, and personalized outreach.
