@@ -198,6 +198,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Mocha](https://getmocha.com/): Build websites easily from ideas without needing any coding experience.
 *   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization.
 *   [NativeBridge](https://nativebridge.io/): Run native mobile apps in any browser instantly with a single link.
+*   [Nearbase](https://nearbase.dev/): Affordable managed Postgres in Asia.
 *   [NeuralTrust](https://neuraltrust.ai/): Secure and scalable AI solutions for enterprise applications and services.
 *   [Next9](https://www.next9.ai/): AI-powered platform streamlining on-call management, incident resolution, and seamless team handoffs.
 *   [NextUpKit](https://www.nextupkit.com): Affordable starter kit to quickly build and launch feature-rich SaaS applications.
