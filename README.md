@@ -298,6 +298,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Chicago Police Report](https://chicagopolicereport.com): Order your police report from the Chicago Police Department.
 *   [CitizenAR](https://societates-civis.com/citizenar): App that guides you through Argentine citizenship with tools, tips, and tracking.
+*   [CitizenCY](https://societates-civis.com/citizency): Cypriot Citizenship & Residency, made simple.
 *   [CitizenPY](https://societates-civis.com/citizenpy): Your step-by-step guide to claiming Paraguayan citizenship with smart tools.
 *   [CleanWhale](https://cleanwhale.us/): Effortless online booking for trusted, transparent home and office cleaning services.
 *   [FARSITE](https://far.site): Handle FAR & DFARS with smart features & clear guidance.
