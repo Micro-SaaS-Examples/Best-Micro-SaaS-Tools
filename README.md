@@ -170,6 +170,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
 *   [ImgUpscaler AI](https://imgupscaler.ai/): Enhance and upscale images or videos with sharper, detailed, high-quality visuals.
 *   [Kosmik](https://www.kosmik.app/): Visual research app that auto-tags, organizes, and finds related content.
+*   [LandscapioAI](https://www.landscapioai.com/): AI landscape design generator for turning yard photos into outdoor redesign concepts, cost estimates, and material ideas.
 *   [Pawtrait](https://www.pawtrait.art/): Custom AI pet portraits in 30+ styles.
 *   [PimpMySnap](https://pimpmysnap.com): Transform screenshots with animations, custom backgrounds, highlights, frames, and text.
 *   [Pixvify AI](https://pixvify.com/): Free AI photo generator.
