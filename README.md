@@ -158,6 +158,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AI Watermark Remover](https://aiwatermarkremover.io/): Remove watermarks from images and videos with ease.
 *   [A1](https://www.a1.gallery/): A curated gallery of top website designs to inspire creativity and innovation.
 *   [Black Headshots](https://www.blackheadshots.com): AI headshots generator for black professionals.
+*   [PhotoRestore.ai](https://photorestore.ai): AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.
 *   [Blurbackground AI](https://blurbackground.ai/): Easily blur photo backgrounds and highlight subjects with one click.
 *   [Bulk Mockup](https://www.bulkmockup.com/): Generate 1000+ mockups in 10 minutes with Bulk Mockup.
 *   [CreativePixel](https://creativepixel.ai/): AI-powered studio transforms ideas into stunning visuals instantly and effortlessly.
