@@ -168,6 +168,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Ecommerce Design](https://ecomm.design/): Curated gallery of 4,000+ ecommerce website designs for inspiration.
 *   [FLUX AI ART](https://fluxaiart.ai/): AI-powered platform for image generation, editing, and free unlimited storage.
 *   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
+*   [igly.ai](https://igly.ai): AI image editor for background removal, inpainting, upscaling, and generative fill.
 *   [ImgUpscaler AI](https://imgupscaler.ai/): Enhance and upscale images or videos with sharper, detailed, high-quality visuals.
 *   [Kosmik](https://www.kosmik.app/): Visual research app that auto-tags, organizes, and finds related content.
 *   [Pawtrait](https://www.pawtrait.art/): Custom AI pet portraits in 30+ styles.
