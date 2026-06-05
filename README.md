@@ -359,6 +359,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Say About Us](https://sayabout.us/): Collect unlimited video and text testimonials.
 *   [Shosay](https://www.shosay.com): AI tool that collects and displays customer reviews in one place.
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
+*   [Slate](https://slatehq.com/): Automation platform for SEO, Web and Content Teams.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
