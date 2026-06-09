@@ -399,6 +399,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Onlime](https://onlime.app/): Secure, renewable-energy-powered cloud storage with GDPR compliance, cross-device sync, and AI photo search.
 *   [PaywallBuster](https://paywallbuster.com/): Remove Paywalls Instantly.
 *   [Promptly](https://searchpromptly.com/): Discover, create, and organize high-quality AI prompts for faster workflows.
+*   [PromptPlanner](https://promptplanner.app/): Prompt manager for Mac to organize, schedule, and copy reusable AI prompts.
 *   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera
 *   [Ration](https://ration.mayutic.com/): AI-Powered Pantry & Meal Planning Platforms.
 *   [Refinder AI](https://refinder.ai/): AI search tool that finds work information across all your apps.
