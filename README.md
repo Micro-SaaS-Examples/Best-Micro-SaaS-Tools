@@ -433,6 +433,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PostPuma](https://postpuma.com): Social media management with AI-driven tools and automation.
 *   [SNSTracker](https://snstracker.com/): Track and analyze social media performance across multiple platforms in real time.
 *   [Storyy](https://storyy.co/): Social media content team blending AI and creatives for consistent brand growth.
+*   [Trofeo.live](https://trofeo.live/): Sports Prediction Pools for Friends & Coworkers.
 *   [Virlo](https://virlo.ai/): AI-powered trend tracking and optimization tools for viral short-form videos.
 
 ### Writing
