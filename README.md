@@ -189,6 +189,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ChatterBox](https://chatter-box.io/): Connect your software to Zoom, Meet, and Teams through one API.
 *   [Coco Alemana](https://www.cocoalemana.com/): Visual platform to explore, clean, and analyze large datasets with SQL support.
 *   [Context Data](https://contextdata.ai/): Data Processing & ETL infrastructure for Generative AI applications.
+*   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
 *   [Dynamiq](https://www.getdynamiq.ai/): The Operating Platform for GenAI Applications.
 *   [FlexApp](https://flexapp.ai/): AI-powered tool that builds production-ready mobile apps from simple text prompts.
 *   [FramerBite](https://framerbite.com/): FramerBite offers 100+ free & premium Framer templates.
