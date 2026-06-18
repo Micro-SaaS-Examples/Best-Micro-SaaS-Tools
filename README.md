@@ -305,6 +305,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CitizenPY](https://societates-civis.com/citizenpy): Your step-by-step guide to claiming Paraguayan citizenship with smart tools.
 *   [CleanWhale](https://cleanwhale.us/): Effortless online booking for trusted, transparent home and office cleaning services.
 *   [FARSITE](https://far.site): Handle FAR & DFARS with smart features & clear guidance.
+*   [LLC Class](https://llcclass.com/wyoming): Wyoming LLC registration for non-US founders — includes registered agent, EIN, and operating agreement to start accepting Stripe and Mercury payments.
+*   [LLC Class](https://llcclass.com): [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders — includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement to unlock Stripe and Mercury bank access.
 *   [SignWith](https://signwith.co/): Sign documents without subscriptions. Pay per document.
 
 ### Marketing
