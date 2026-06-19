@@ -308,7 +308,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [SignWith](https://signwith.co/): Sign documents without subscriptions. Pay per document.
 
 ### Marketing
-
+*   [Peddlum](https://peddlum.com) - Marketing tool for selling digital products with built-in creator campaigns, affiliate tracking.
 *   [Ad Swipe File](https://adswipefile.com/): Free access to 22,423+ proven ads from Meta, TikTok, and more!
 *   [Adligator](https://adligator.com): AI tool for analyzing and optimizing competitor ad strategies.
 *   [APAC Agencies](https://apacagencies.com): Discover the top creative and digital agencies in Asia Pacific.
