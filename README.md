@@ -409,6 +409,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Reverse Image Search Tools](https://chromewebstore.google.com/detail/reverse-image-search-tool/hccicgceahocikgncfihpmkjamfpacpg): Search the web using any image.
 *   [Searchable ChatGPT](https://myextension.store/searchable-chatgpt/): Search GPT chats history.
 *   [Smmry](https://smmry.com/): AI tool makes short summaries from long texts easily.
+*   [Soda](https://getsoda.app/): Knowledge layer for customer-facing teams.
 *   [Summara](https://summara.io/): AI-powered Chrome extension delivering instant YouTube video summaries and transcripts.
 *   [Supercamp](https://supercamp.ai/): AI workspace for business
 *   [Text Zen - Text Expander](https://www.textzen.app/): Save time with web Text Expander shortcuts and power auto text snippets.
