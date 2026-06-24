@@ -93,6 +93,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
+*   [Micro-SaaS Runway Price Floor Calculator](https://micro-saas-runway-price-floor-calculator.vercel.app/): Estimate a micro-SaaS price floor, break-even customers, and runway gap in the browser.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
