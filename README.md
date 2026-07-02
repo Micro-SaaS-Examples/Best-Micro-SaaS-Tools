@@ -387,6 +387,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Chrome Reader Mode](https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en): Remove ads from web pages for clean, easy reading.
 *   [Coin Newsify](https://www.coinewsify.ai): AI powered crypto news platform for quick and smart trading decisions.
 *   [Digital Notes](https://digitalnotes.com): Offline-ready notes sync automatically, link ideas, and ensure seamless organization.
+*   [DocGPT.ai](https://docgpt.ai/): AI productivity add-ons for Google Sheets, Docs, Gmail, Slides, and Forms.
 *   [Endura](https://www.endura.digital/): Digital Estate Manager.
 *   [FixRAgent](https://fixragent.com/): AI visual triage for property managers. Stop blind service calls.
 *   [Globie](https://globie.io/): Globie eSim for International Travelers.
