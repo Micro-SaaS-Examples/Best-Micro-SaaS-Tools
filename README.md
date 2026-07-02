@@ -354,6 +354,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Podify.io](https://podify.io): Leverage AI and community to grow on LinkedIn.
 *   [Pykaso.ai](https://www.pykaso.ai/): Create realistic AI influencers and monetize content through advanced generation tools.
 *   [ReelProof](https://reelproof.io): AI collects testimonials, creates shareable video reels, and boosts conversions.
+*   [Rocketito](https://rocketito.com/): AI SEO Software for ChatGPT, Google AI & LLMs | Rocketito.
 *   [SEO Katana](https://seokatana.com): Simplify SEO by analyzing competitors and generating effective content.
 *   [SaaSCurate](https://saascurate.com/): SaaSCurate helps SaaS founders promote products and grow through community exposure.
 *   [SalesAgent Chat](https://www.salesagent.chat/): AI-powered coach and assistant to boost confidence and close more deals.
