@@ -437,6 +437,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Move](https://m0ve.app): Events, calendars & groups into one simple platform.
 *   [PostPuma](https://postpuma.com): Social media management with AI-driven tools and automation.
 *   [SNSTracker](https://snstracker.com/): Track and analyze social media performance across multiple platforms in real time.
+*   [SocialBu](https://socialbu.com): AI-powered social media management platform to schedule, publish, monitor, and automate across all major platforms.
 *   [Storyy](https://storyy.co/): Social media content team blending AI and creatives for consistent brand growth.
 *   [Trofeo.live](https://trofeo.live/): Sports Prediction Pools for Friends & Coworkers.
 *   [Tuku](https://tuku.co/): TikTok comment-to-DM automation for SEA creators & merchants.
