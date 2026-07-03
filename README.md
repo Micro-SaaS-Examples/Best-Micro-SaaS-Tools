@@ -332,6 +332,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
 *   [Gauge](https://withgauge.com/): Gauge helps companies show up when customers ask AI questions.
+*   [GetAppNiche](https://getappniche.com): App Store intelligence for indie iOS founders tracking revenue estimates, downloads, ASO keywords, ads and reviews.
 *   [Go Big Reviews](https://gobigreviews.com): Boost online reputation via seamless review management.
 *   [Gro](https://thegro.ai/): AI Sales Agent for B2B Lead Generation.
 *   [Groups Watcher](https://www.groupswatcher.com/): Monitor Facebook groups for leads and brand mentions. Alerts in 60 sec.
