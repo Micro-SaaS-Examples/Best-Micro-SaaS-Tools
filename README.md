@@ -212,6 +212,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PostPeer](https://www.postpeer.dev/): Social media posting API for cross-platform posting and scheduling.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
 *   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code.
+*   [Roblox GUI Maker](https://robloxguimaker.dev/): AI-assisted Roblox Studio GUI planner for ScreenGui layouts and Lua starter code.
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent
 *   [ScreenshotBuddy](https://screenshotbuddy.io/): API for generating screenshots and PDFs from URLs.
 *   [seenode](https://seenode.com): Developer cloud for full-stack apps
