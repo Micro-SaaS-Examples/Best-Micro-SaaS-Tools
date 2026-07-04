@@ -86,6 +86,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
+*   [DokuTrak](https://dokutrak.com): Secure magic-link document collection that auto-reminds clients and AI-validates every upload.
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
