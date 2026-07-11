@@ -88,6 +88,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
+*   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
