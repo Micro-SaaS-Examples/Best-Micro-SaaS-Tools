@@ -127,6 +127,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ReactNative Jobs](https://reactnative-jobs.com/): The #1 job board for React Native developers.
 *   [Resume Ink](https://resume.ink): Tailor you resume automatically for each job you apply for.
 *   [ResumeDive](https://resumedive.com): A resume boosting service using AI.
+*   [Rezly](https://rezly.ai): Free AI Resume Builder.
 *   [TechTeamFinder](https://techteamfinder.com/): Connect with top-tier tech teams for seamless project execution and growth.
 *   [Warehouse Worker Network](https://warehouseworkernetwork.com/): Glassdoor for Warehouses.
 *   [Weaver Partners](https://weaverpartners.com/): Expertly connecting talent and employers in benefits and HR fields.
