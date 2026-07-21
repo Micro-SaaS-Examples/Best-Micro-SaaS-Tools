@@ -275,6 +275,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
 *   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
 *   [Valinor Finance](https://www.valinorfinance.com/): Review platform built specifically for finding financial advisors.
+*   [Vaultion](https://vaultion.org/): Non-custodial auto crypto escrow with Kleros arbitration.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Track top wallets and trades across blockchains with real-time insights.
 *   [Zola Analytics](https://www.zolaanalytics.com/): Turn financial data into instant charts and reports using simple language.
 
