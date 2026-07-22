@@ -400,6 +400,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Inbox Zapper](https://www.inboxzapper.com/): Your Digital Bouncer for Email Clutter.
 *   [Kenteken Gids](https://www.kentekengids.nl): Dutch Car License Plate Checker.
 *   [Mail Genie](https://mailgenie.io/): Clean your inbox by unsubscribing from newsletters and marketing emails.
+*   [Markdown to Word](https://mdtoword.org/): Convert Markdown into clean, editable DOCX files with live preview and local browser processing.
 *   [Me Bot](https://www.me.bot/): Turn your ideas into an AI life coach.
 *   [My Passion AI](https://mypassion.ai): AI-powered quiz to find your passion career path.
 *   [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga): Night mode for Chrome: dark theme, yellow filter & text resize
