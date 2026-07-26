@@ -297,6 +297,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Paralino](https://paralino.com/): Private, encrypted location sharing app for families, travelers, and privacy-conscious users.
 *   [Presence](https://presence.app/): Meditation app with expert guidance for daily peace and wellness.
 *   [Shelter](https://getshelter.co/): Securely store and share important info so loved ones can access it.
+*   [Suanleb](https://suanlem.asia/): Explore Bazi four-pillar charts, three-card Tarot and Vedic astrology readings powered by real calculation libraries, saved history and transparent methodology.
 *   [Tatship](https://tatship.com): Plan tattoos easily with virtual tools for design, placement, and size.
 *   [Toolstash](https://toolstash.com): Track, lend & borrow tools.
 *   [Wedding Capsule](https://weddingcapsule.net): Transform wedding memories into an interactive, real-time digital experience.
