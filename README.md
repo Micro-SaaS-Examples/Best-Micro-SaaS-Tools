@@ -200,6 +200,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Lucebox](https://www.lucebox.com/): The computer for local AI.
 *   [Magic Potion](https://www.magicpotion.app/): Visual drag-and-drop tool for building and testing AI prompts easily.
 *   [Miruni](https://www.miruni.io): Streamlines website feedback and tasks for developers and agencies via live collaboration.
+*   [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker): Free check of robots.txt, page-level noindex directives, and common AI crawler rules, with results and limitations.
 *   [Mocha](https://getmocha.com/): Build websites easily from ideas without needing any coding experience.
 *   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization.
 *   [NativeBridge](https://nativebridge.io/): Run native mobile apps in any browser instantly with a single link.
