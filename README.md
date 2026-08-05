@@ -54,6 +54,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Voice Command](https://myextension.store/voice-command/): Control your browser with voice commands for faster, hands-free browsing.
 *   [Zippy Delivery](https://zippydelivery.app/): Automatically upload Zoom recordings to YouTube with smart titles and summaries.
 *   [Zolltarifnummer.com](https://www.zolltarifnummer.com/): Find and verify the right 11-digit German customs tariff number.
+*   [BoltWeb](https://www.boltweb.co): AI website builder for creating websites, blogs, and landing pages in minutes.
 
 ### Audio & Video
 
@@ -182,6 +183,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Video Watermark Remover](https://videowatermarkremover.ai/): Remove video watermarks online for free.
 *   [iColoring](https://icoloring.ai): Free AI tool that turns text into custom coloring pages.
 *   [AI Image Generator](https://venngage.com/ai-tools/image-generator): Go from concept to custom AI-generated images in just a few clicks.
+*   [DesignHome](https://www.designhome.co): Home design platform for creating floor plans, interiors, exteriors, and realistic 3D visualizations.
 
 ### Developer Tools
 
@@ -431,6 +433,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator.
 *   [Your Next Domain](https://yournextdomain.com): Find valuable domain names across millions of auctions.
+*   [CarWrap.Style](https://www.carwrap.style): AI car wrap visualizer for previewing vinyl wraps, colors, and finishes before installation.
 
 ### Social
 
