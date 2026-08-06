@@ -262,6 +262,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Bitzaro](https://www.bitzaro.com/): Comprehensive platform for secure crypto transactions and seamless fiat conversion.
 *   [BondSmartly](https://www.bondsmartly.com/): Simplify bond investing with real-time data, analysis, and powerful tools.
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses.
+*   [culta.ai](https://culta.ai): Multi-entity financial management for startups and small businesses.
 *   [CryptoCardHub](https://www.cryptocardhub.com/): Compare crypto cards based on your real spending to maximize rewards.
 *   [Global Guru Capital](https://www.globalgurucap.com/): Discover microcap stocks primed for explosive growth with proven QVM strategy.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
