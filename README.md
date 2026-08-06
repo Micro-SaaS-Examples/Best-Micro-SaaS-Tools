@@ -336,6 +336,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Find Me Creators](https://www.findmecreators.com/database): The most powerful and affordable TikTok micro-influencer database.
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
+*   [Flypost](https://www.flypost.io/): AI-powered LinkedIn content studio that turns your blogs, videos and docs into on-brand posts and carousels.
 *   [Gauge](https://withgauge.com/): Gauge helps companies show up when customers ask AI questions.
 *   [Go Big Reviews](https://gobigreviews.com): Boost online reputation via seamless review management.
 *   [Gro](https://thegro.ai/): AI Sales Agent for B2B Lead Generation.
