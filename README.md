@@ -65,6 +65,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [FILMPAC](https://www.filmpac.com/): Premium stock footage and music for high-quality, authentic storytelling.
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
+*   [LiveFaceSwap AI](https://livefaceswap.ai/): Real-time AI face swapping, outfit changes, and style restyling in a browser or Windows client.
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Outlier Kit](https://outlierkit.com/): Find profitable YouTube niches and keywords with low competition, high revenue.
