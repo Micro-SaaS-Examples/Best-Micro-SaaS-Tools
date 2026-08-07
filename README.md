@@ -452,6 +452,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [AI Plagiarism Checker](https://aiplagiarismchecker.io/): Ensure originality in your writing with our powerful plagiarism checker.
 *   [Decopy AI](https://decopy.ai): Free tool to identify AI generated content.
+*   [Gixo Folio](https://gixo.ai/folio): AI Book Studio That Turns Your Existing Expertise Into A Finished Book.
 *   [Gixo Quill](https://gixo.ai/quill): AI SEO Content Writer With Cited Sources.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [Lede](https://thelede.ai): Generate In-Depth Blog Content.
