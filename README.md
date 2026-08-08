@@ -311,6 +311,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CitizenPY](https://societates-civis.com/citizenpy): Your step-by-step guide to claiming Paraguayan citizenship with smart tools.
 *   [CleanWhale](https://cleanwhale.us/): Effortless online booking for trusted, transparent home and office cleaning services.
 *   [FARSITE](https://far.site): Handle FAR & DFARS with smart features & clear guidance.
+*   [Gixo Lex](https://gixo.ai/lex): AI Legal Drafting That Captures The Facts Before It Writes.
 *   [SignWith](https://signwith.co/): Sign documents without subscriptions. Pay per document.
 
 ### Marketing
