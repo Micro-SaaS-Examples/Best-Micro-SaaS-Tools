@@ -346,6 +346,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [KarmaLinks](https://karmalinks.io/): AI-driven platform for free, quality backlink exchange and SEO.
 *   [Keyla.AI](https://keyla.ai/): Create high performing, scalable ads with realistic AI avatars.
 *   [Kimblur](https://kimblur.com/): AI-powered presentation maker.
+*   [Klinky](https://klinky.io/): A/B testing link shortener — split one link between two destinations and measure which one wins.
 *   [Learn Copywriting](https://learncopywriting.com/): Practice copywriting with AI.
 *   [Linkter](https://www.linkter.ai/): #1 AI Internal Linking Tool For SEO Superstars.
 *   [Lunroo](https://lunroo.com): Free AI Tools for Social Media Marketing.
