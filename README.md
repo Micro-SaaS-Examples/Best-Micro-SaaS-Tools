@@ -142,6 +142,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Swiftsell AI](https://swiftsellai.com/): Voice and WhatsApp AI Agents for Services Businesses.
 *   [Vidocu](https://vidocu.ai/): Turn screen recordings into professional videos and documentation.
 *   [VirtualReception.AI](https://virtualreception.ai/): Your AI Answering Service. Never Miss a Call.
+*   [Workforce Wave](https://www.workforcewave.com/): AI voice receptionist for after-hours call answering and lead capture.
 
 ### Design
 
