@@ -273,6 +273,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
 *   [Property Forecast](https://propertyforecast.co/): Data analytics for real estate investors.
 *   [Receipt Faker](https://receiptfaker.com/): Make receipts fast with easy templates you can edit and download.
+*   [Repceipt](https://repceipt.com): Upload a receipt to edit it, or start from a ready-made template.
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly.
 *   [SMSF Buddy](https://smsfbuddy.com/): The private SMSF tracker for Australian trustees.
 *   [Tax Brackets](https://taxbrackets.io/): TaxBrackets.io instantly estimates global income taxes.
