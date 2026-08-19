@@ -90,6 +90,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
+*   [Gigpie](https://gigpie.com/): Scheduling, billing, payroll, and CRM for education businesses.
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
