@@ -371,6 +371,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [SalesStatsVisualize](https://salesstatsvisualize.com): Etsy Sales Simplified - Easy Listing, Deep Analysis.
 *   [Salesably](https://www.salesably.ai/): AI-driven sales coaching to enhance communication.
 *   [Say About Us](https://sayabout.us/): Collect unlimited video and text testimonials.
+*   [Shopify App Review Brief](https://alfredtech2026.github.io/shopify-app-review-brief/?utm_source=best-micro-saas-tools&utm_medium=resource-directory&utm_campaign=inbound-validation): Human-checked, prioritized low-star review briefs for Shopify app teams.
 *   [Shosay](https://www.shosay.com): AI tool that collects and displays customer reviews in one place.
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
 *   [Slate](https://slatehq.com/): Automation platform for SEO, Web and Content Teams.
