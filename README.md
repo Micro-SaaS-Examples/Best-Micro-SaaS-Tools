@@ -273,6 +273,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Nook Savings](http://nookapp.xyz/): Saving app that earns 3x more than your bank account.
 *   [Panem](https://panem.co): AI Powered SaaS Spend Management.
 *   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
+*   [RefundRadar](https://guerindylan555-boop.github.io/refundradar/): Generates Stripe chargeback counter_evidence packets (rebuttal letter + evidence checklist) for indie SaaS founders.
 *   [Property Forecast](https://propertyforecast.co/): Data analytics for real estate investors.
 *   [Receipt Faker](https://receiptfaker.com/): Make receipts fast with easy templates you can edit and download.
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly.
