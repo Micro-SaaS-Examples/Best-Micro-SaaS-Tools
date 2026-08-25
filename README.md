@@ -148,6 +148,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Design
 
 *   [AI Anime](https://aianime.io/): AI Anime Generator.
+*   [AI Banner Generator](https://venngage.com/ai-tools/banner-generator): Turn a prompt into an on-brand, ready-to-share banner with AI.
 *   [AI Book Cover Generator](https://venngage.com/ai-tools/book-cover-generator): Design eye-catching book covers with AI.
 *   [AI Brochure Generator](https://venngage.com/ai-tools/brochure-generator): Create professional brochures from simple prompts without any design experience.
 *   [AI Catalog Generator](https://venngage.com/ai-tools/catalog-generator): Turn a prompt into a branded, ready-to-share product catalog with AI.
