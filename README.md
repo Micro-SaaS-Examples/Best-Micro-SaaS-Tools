@@ -102,6 +102,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
 *   [ProxDeal](https://proxdeal.com): AI tool simplifies M&A research, target identification, and personalized outreach.
 *   [Pulsed](https://www.pulsed.me/): Free interactive platform for creating live polls with real-time feedback.
+*   [QuoteChime](https://quotechime.pages.dev/?ref=best-micro-saas-tools): Browser-private quote follow-up drafts and one-time script packs for small service businesses.
 *   [Redii](https://www.redii.co/): Retirement benefits for your global workforce.
 *   [Receipts Maker](https://receiptsmaker.com): Online receipt generator.
 *   [RentalFinder](https://www.rentalfinder.nl/): Automatic rental finder for Dutch homes with alerts and smart search.
