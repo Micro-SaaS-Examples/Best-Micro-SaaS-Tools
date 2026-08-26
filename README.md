@@ -162,6 +162,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AI Presentation Generator](https://venngage.com/ai-tools/presentation-generator): Build clear, professional presentations faster with the help of AI.
 *   [AI Proposal Generator](https://venngage.com/ai-tools/proposal-generator): Build clear, professional proposals with AI.
 *   [AI Report Generator](https://venngage.com/ai-tools/report-generator): Turn a prompt into a fully designed, on-brand business report with AI.
+*   [AI Schedule Generator](https://venngage.com/ai-tools/schedule-generator): Turn your tasks and shifts into a clear, shareable schedule with AI.
 *   [AI Timeline Generator](https://venngage.com/ai-tools/timeline-generator): Turn ideas into stunning timelines in seconds—powered by smart AI
 *   [AI Watermark Remover](https://aiwatermarkremover.io/): Remove watermarks from images and videos with ease.
 *   [A1](https://www.a1.gallery/): A curated gallery of top website designs to inspire creativity and innovation.
