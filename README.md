@@ -429,6 +429,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Smmry](https://smmry.com/): AI tool makes short summaries from long texts easily.
 *   [Summara](https://summara.io/): AI-powered Chrome extension delivering instant YouTube video summaries and transcripts.
 *   [Supercamp](https://supercamp.ai/): AI workspace for business
+*   [TeamBrain](https://teambrain.co/): Shared workspace for AI teams
 *   [Text Zen - Text Expander](https://www.textzen.app/): Save time with web Text Expander shortcuts and power auto text snippets.
 *   [Timesheet AI-OCR](https://www.timesheet-ocr.com/): OCR built for paper attendance forms
 *   [Trails](https://trails.so/): The easiest way to document your process
