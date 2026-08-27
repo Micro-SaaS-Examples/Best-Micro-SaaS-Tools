@@ -190,6 +190,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Video Watermark Remover](https://videowatermarkremover.ai/): Remove video watermarks online for free.
 *   [iColoring](https://icoloring.ai): Free AI tool that turns text into custom coloring pages.
 *   [AI Image Generator](https://venngage.com/ai-tools/image-generator): Go from concept to custom AI-generated images in just a few clicks.
+*   [DesignHome](https://www.designhome.co/): AI-powered home design platform for creating floor plans, visualizing interiors and exteriors, and designing spaces with AI.
 
 ### Developer Tools
 
