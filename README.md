@@ -94,6 +94,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
+*   [Ibis](https://cartonpliant.github.io/ibis/): Compose a one-page commercial offer in the browser. No account, free with watermark; Pro 9€ for clean print, Markdown, and five layouts.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
