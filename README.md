@@ -139,6 +139,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AudioForms](https://getaudioforms.com/): Capture detailed voice feedback easily with automatic transcription and simple sharing.
 *   [Beheard Labs](https://www.gobeheard.com/): AI-Powered Customer Insight Platform
 *   [Chat Thing](http://chatthing.ai/): Make AI chatbots in minutes.
+*   [Keeping](https://www.keeping.com/): Turns Google Workspace Into Your Team’s Help Desk.
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent.
 *   [Rosie](https://heyrosie.com/): AI Phone Answering Service.
 *   [Swiftsell AI](https://swiftsellai.com/): Voice and WhatsApp AI Agents for Services Businesses.
