@@ -84,6 +84,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Alquilame](https://alquilame.io/): Simple rental management with WhatsApp booking and zero commission fees.
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
+*   [ClearSheet](https://me-fake-you.github.io/clearsheet-offers/): Turn invoices, purchase orders, and freight documents into clean, review-ready Excel workbooks.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
