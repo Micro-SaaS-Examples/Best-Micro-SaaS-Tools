@@ -236,6 +236,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [TestSprite](https://www.testsprite.com/): The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
+*   [XiuRouter](https://router.xiu.ai/): Connects apps and AI agents to leading models through OpenAI Responses and Chat Completions, Anthropic Messages, and Gemini GenerateContent, with scoped keys and request-level usage and cost records.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
 *   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
 
