@@ -358,6 +358,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Kimblur](https://kimblur.com/): AI-powered presentation maker.
 *   [Learn Copywriting](https://learncopywriting.com/): Practice copywriting with AI.
 *   [Linkter](https://www.linkter.ai/): #1 AI Internal Linking Tool For SEO Superstars.
+*   [LovedByAI](https://www.lovedby.ai/): Set-and-forget AI search optimization plugin for WordPress.
 *   [Lunroo](https://lunroo.com): Free AI Tools for Social Media Marketing.
 *   [Luthor](https://luthor.ai/): Grow organic traffic with programmatic SEO at scale.
 *   [ManuscriptReport](https://manuscriptreport.com/): Generate complete book marketing kits with blurbs, comps, ads, and more.
