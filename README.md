@@ -85,6 +85,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Alquilame](https://alquilame.io/): Simple rental management with WhatsApp booking and zero commission fees.
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
+*   [Dibze](https://www.dibze.com/): Dibze is the most accurate housing site in Chicago. For Sale & For Rent.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
