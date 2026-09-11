@@ -302,6 +302,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [DreamjourneyAI](https://dreamjourneyai.com): Explore fantasies with AI roleplay, character chats, and RPGs.
 *   [FamilyPro](https://familypro.io): Enjoy premium subscriptions for lowest price with FamilyPro.
 *   [Flirt](https://flirtos.com/): Craft perfect dating app responses, build standout profiles, and spark meaningful connections.
+*   [InkCraft](https://inkcraftapp.com): Preview tattoos on your own photo, and on a 3D model of your body reconstructed from that photo.
 *   [mealideas](https://mealideas.ai/): AI-powered meal decisions that learn your taste.
 *   [Medidex Connect](https://medidex.chat): Chat with a pharmacist online.
 *   [MyNextInk](https://www.mynextink.com): The all-in-one tattoo platform
