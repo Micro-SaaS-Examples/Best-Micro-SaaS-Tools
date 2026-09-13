@@ -28,6 +28,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AI Cover Letter Generator](https://www.aicoverlettergenerator.app/): Get hired faster with AI personalized cover letters.
 *   [AI for Google Slides](https://www.aiforgoogleslides.com/): Create professional presentations in minutes.
 *   [AI Image to Text](https://aiimagetotext.com/): Image to Text converts images into editable text.
+*   [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/): AI workflow toolkit for indie builders with PR review checklists, launch planning, and revenue idea scanning.
 *   [AI PowerPoint Maker](https://aipowerpointmaker.com/): AI presentation generator for PowerPoint.
 *   [AI Wedding Toast](http://aiweddingtoast.com/): Generate a personalized wedding speech with AI.
 *   [Aigazine](https://aigazine.com): The Go-To Source for AI Benchmarks, News, Research & Industry Insights.
