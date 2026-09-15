@@ -97,6 +97,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
+*   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
