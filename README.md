@@ -219,7 +219,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [NeuralTrust](https://neuraltrust.ai/): Secure and scalable AI solutions for enterprise applications and services.
 *   [Next9](https://www.next9.ai/): AI-powered platform streamlining on-call management, incident resolution, and seamless team handoffs.
 *   [NextUpKit](https://www.nextupkit.com): Affordable starter kit to quickly build and launch feature-rich SaaS applications.
-*   [Omnara](https://www.omnara.com/): Command Center for AI Coding Agents.
+*   [Omnara](https://omnara.com/): The open-source API for production-ready AI agents.
 *   [Open Source Alternatives](https://www.opensourcealternatives.to): Handpicked Open Source Alternatives to Paid Softwares.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
