@@ -234,6 +234,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Srcbook](https://srcbook.com): AI builds and publishes websites, no coding required.
 *   [StarOps](https://ingenimax.ai/): Deploy models and manage cloud infrastructure without dedicated DevOps teams.
 *   [Staclo Host](https://staclo.host): Host static sites with secure SSL, custom domains, and instant updates.
+*   [Stripo Plugin](https://stripo.email/plugin/): Embeddable drag-n-drop email editor for your SaaS, white-label, cloud or self-hosted.
 *   [SvelteLaunch](https://sveltelaunch.io): Svelte 5 Boilerplate for building AI apps quickly.
 *   [Swapcode AI](https://swapcode.ai/): AI tools for faster coding: convert, generate, debug, and optimize effortlessly.
 *   [Trackee](https://www.trackee.dev/): SEO & AI visibility, in one API.
