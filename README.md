@@ -197,6 +197,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 ### Developer Tools
 
+*   [Agent QA](https://vostride.com/docs/agent-qa): Self-improving QA agent for natural-language web and mobile tests with execution memory and UI-change adaptation.
 *   [Best SaaS Boilerplates](https://saasboilerplates.dev): Curated boilerplates to simplify and accelerate SaaS development.
 *   [BugSmash](https://bugsmash.io/): Collaborative tool for seamless feedback, annotations, and project reviews across teams.
 *   [CaptureKit](https://www.capturekit.dev/): Powerful API for automating web content extraction and screenshot capture.
