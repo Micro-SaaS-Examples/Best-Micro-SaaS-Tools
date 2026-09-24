@@ -324,6 +324,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CleanWhale](https://cleanwhale.us/): Effortless online booking for trusted, transparent home and office cleaning services.
 *   [FARSITE](https://far.site): Handle FAR & DFARS with smart features & clear guidance.
 *   [Gixo Lex](https://gixo.ai/lex): AI Legal Drafting That Captures The Facts Before It Writes.
+*   [HelloCounsel](https://www.hellocounsel.ai/): AI voice agents that answer calls and log every note in your CMS.
 *   [SignWith](https://signwith.co/): Sign documents without subscriptions. Pay per document.
 
 ### Marketing
