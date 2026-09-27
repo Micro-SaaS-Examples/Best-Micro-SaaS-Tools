@@ -366,6 +366,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Luthor](https://luthor.ai/): Grow organic traffic with programmatic SEO at scale.
 *   [ManuscriptReport](https://manuscriptreport.com/): Generate complete book marketing kits with blurbs, comps, ads, and more.
 *   [Meshr](https://meshr.link/): Boost SEO with automated, intelligent internal linking for better engagement.
+*   [Modellix](https://www.modellix.ai/): All leading AI models. One API. Zero hassle.
 *   [MuckBrass](https://www.muckbrass.com/): Find & Validate Startup Ideas.
 *   [NowKnow](https://nowknow.ai): Fast and accurate market research through virtual customer feedback.
 *   [onmediamarket](https://www.onmediamarket.com/): Marketplace platform to connect clients with marketers and creators.
