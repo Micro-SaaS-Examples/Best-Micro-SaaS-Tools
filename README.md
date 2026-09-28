@@ -128,7 +128,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Hirebase](https://www.hirebase.org/): AI-powered job search engine and job market data provider.
 *   [JobSwift.AI](https://jobswift.ai/): AI assistant that simplifies job applications, tracks progress, and boosts results.
  *   [Luna Interview](https://lunainterview.xyz/): Chrome side-panel interview copilot that suggests answers from your own notes during Meet or Zoom.
-*    [Narrativ](https://mynarrativ.com/): Craft and organize compelling career stories with AI-guided prompts and frameworks.
+*    Narrativ](https://mynarrativ.com/): Craft and organize compelling career stories with AI-guided prompts and frameworks.
 *   [OpenCulture](https://www.openculturebot.com/): Enables anonymous Q&A in Slack, fostering open and honest conversations.
 *   [PPResume](https://ppresume.com): A LaTeX based resume builder.
 *   [ReactNative Jobs](https://reactnative-jobs.com/): The #1 job board for React Native developers.
