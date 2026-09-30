@@ -206,6 +206,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
 *   [Dynamiq](https://www.getdynamiq.ai/): The Operating Platform for GenAI Applications.
 *   [FlexApp](https://flexapp.ai/): AI-powered tool that builds production-ready mobile apps from simple text prompts.
+*   [Forgex](https://forgex.r-kinetics.com/): Vibe coding platform for backend orchestration layer.
 *   [FramerBite](https://framerbite.com/): FramerBite offers 100+ free & premium Framer templates.
 *   [Frontend AI](https://www.webcrumbs.org/frontend-ai): Your UI generated from prompts or images.
 *   [Hexabot](https://hexabot.ai): Open-Source AI Chatbot Builder.
