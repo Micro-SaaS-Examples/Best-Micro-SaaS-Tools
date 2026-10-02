@@ -111,6 +111,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Scribbl](https://www.scribbl.co): Records, transcribe, and summarize meetings.
 *   [SimplePerf](https://buddieshr.com/simpleperf): A simple, guided 360° performance review tool made for small teams
 *   [Stellafai](https://www.stellafai.com/): The strategy execution toolkit for goal-oriented teams.
+*   [syncX: Stock Sync](https://www.syncx.com/stock-sync): Import, bulk edit, real-time update and migrate products.
 *   [TimeShot](https://timeshot.io/): Track security guards and staff with simple mobile patrol app system.
 *   [Tubetranscript](https://www.tubetranscript.com/): YouTube Transcript Generator.
 *   [Vaiz](https://vaiz.com/): All-in-one workspace for tasks, docs, code, and team collaboration.
