@@ -84,6 +84,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Alquilame](https://alquilame.io/): Simple rental management with WhatsApp booking and zero commission fees.
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
+*   [Connections](https://connections.icu/small-business-software): Free-to-start account for small businesses and event hosts with a contact CRM and follow-ups, a digital business card, booking pages and event ticketing.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dibze](https://www.dibze.com/): Dibze is the most accurate housing site in Chicago. For Sale & For Rent.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
