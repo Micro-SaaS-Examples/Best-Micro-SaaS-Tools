@@ -461,6 +461,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Clubistry](http://clubistry.com/): Easy to use club website builder and membership management platform.
 *   [FansFinder](https://fansfinder.cc/): Search millions of OnlyFans creators by location, interests, and keywords easily.
 *   [IGExporter](https://igexporter.net): Export Instagram follower data easily with no login and gain insights for better engagement.
+*   [Koveto-Vasarlas.hu Engagement Calculator](https://koveto-vasarlas.hu/tools/engagement-rate): Free Hungarian calculator for likes-plus-comments engagement ratios, with selectable denominators.
 *   [Mooji](https://www.moojiapp.com): Simple Apple Watch status sharing that keeps close friends connected.
 *   [Move](https://m0ve.app): Events, calendars & groups into one simple platform.
 *   [PostPuma](https://postpuma.com): Social media management with AI-driven tools and automation.
