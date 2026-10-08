@@ -206,6 +206,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Context Data](https://contextdata.ai/): Data Processing & ETL infrastructure for Generative AI applications.
 *   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
 *   [Dynamiq](https://www.getdynamiq.ai/): The Operating Platform for GenAI Applications.
+*   [FirstPass](https://mmxfq.github.io/firstpass-site/): Evidence-checked launch QA for SaaS conversion paths and developer-tool releases.
 *   [FlexApp](https://flexapp.ai/): AI-powered tool that builds production-ready mobile apps from simple text prompts.
 *   [Forgex](https://forgex.r-kinetics.com/): Vibe coding platform for backend orchestration layer.
 *   [FramerBite](https://framerbite.com/): FramerBite offers 100+ free & premium Framer templates.
