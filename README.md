@@ -234,6 +234,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Solana Tracker](https://www.solanatracker.io): Solana Tracker is the best way to buy and track all Solana tokens.
 *   [SpeedUp AI](https://speed-up.ai/): End-to-End AI Circuit Schematic Design.
 *   [Srcbook](https://srcbook.com): AI builds and publishes websites, no coding required.
+*   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
 *   [StarOps](https://ingenimax.ai/): Deploy models and manage cloud infrastructure without dedicated DevOps teams.
 *   [Staclo Host](https://staclo.host): Host static sites with secure SSL, custom domains, and instant updates.
 *   [SvelteLaunch](https://sveltelaunch.io): Svelte 5 Boilerplate for building AI apps quickly.
@@ -242,8 +243,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [TestSprite](https://www.testsprite.com/): The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
+*   [Xora](https://xora.sh/): Cloud FFmpeg API for media jobs.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
-*   [staarter.dev](https://staarter.dev): Next.js SaaS Boilerplate.
 
 ### Education
 
