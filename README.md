@@ -280,6 +280,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CryptoCardHub](https://www.cryptocardhub.com/): Compare crypto cards based on your real spending to maximize rewards.
 *   [Global Guru Capital](https://www.globalgurucap.com/): Discover microcap stocks primed for explosive growth with proven QVM strategy.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
+*   [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator): Free miniature-golf outing budget calculator for player prices, extras, fees, tax, tips and deposits, with whole-dollar USD totals.
 *   [NAYA](https://naya.finance/): AI-powered platform automating financial reconciliation, compliance, and ledger management for fintechs.
 *   [Nook Savings](http://nookapp.xyz/): Saving app that earns 3x more than your bank account.
 *   [Panem](https://panem.co): AI Powered SaaS Spend Management.
