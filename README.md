@@ -96,6 +96,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
+*   [Hissa](https://www.hissa.com/): ESOP Administration and Management Platform.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
