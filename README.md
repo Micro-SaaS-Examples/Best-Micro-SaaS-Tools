@@ -206,6 +206,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Coco Alemana](https://www.cocoalemana.com/): Visual platform to explore, clean, and analyze large datasets with SQL support.
 *   [Context Data](https://contextdata.ai/): Data Processing & ETL infrastructure for Generative AI applications.
 *   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
+*   [Vacato](https://vacato.io): Free RDAP domain watchlist — scheduled checks + Telegram/email when a name looks available (not a drop-catcher).
 *   [Dynamiq](https://www.getdynamiq.ai/): The Operating Platform for GenAI Applications.
 *   [FlexApp](https://flexapp.ai/): AI-powered tool that builds production-ready mobile apps from simple text prompts.
 *   [Forgex](https://forgex.r-kinetics.com/): Vibe coding platform for backend orchestration layer.
