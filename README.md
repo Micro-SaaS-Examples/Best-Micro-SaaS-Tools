@@ -87,6 +87,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dibze](https://www.dibze.com/): Dibze is the most accurate housing site in Chicago. For Sale & For Rent.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
+*   [DDScore](https://www.ddscore.ai/): Playful Pixels Oy's DDScore turns private-company materials into a structured 0–100 Due Diligence Score and full report.
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
