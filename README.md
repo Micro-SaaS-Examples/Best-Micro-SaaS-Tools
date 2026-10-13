@@ -49,6 +49,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [RabbitHoles AI](https://www.rabbitholes.ai): Infinite canvas for AI conversations.
 *   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams
 *   [Shopme Agent](https://shopmeagent.com/): A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place.
+* [SimpleServe](https://www.simpleserve.ai): OpenRouter for AI agents—publish your AI agents in one place and make them available across ChatGPT, Claude, Grok, coding agents, and automated workflows.
 *   [TaxTip.ai](https://taxtip.ai/): Global Tax Intelligence Platform.
 *   [Velory](https://velory.com/): Automate your entire IT equipment lifecycle from ordering to retirement.
 *   [Voice Command](https://myextension.store/voice-command/): Control your browser with voice commands for faster, hands-free browsing.
