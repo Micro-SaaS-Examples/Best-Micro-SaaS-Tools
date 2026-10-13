@@ -101,6 +101,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
+*   [Micro-SaaS Runway Price Floor Calculator](https://micro-saas-runway-price-floor-calculator.vercel.app/): Estimate a micro-SaaS price floor, break-even customers, and runway gap in the browser.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
