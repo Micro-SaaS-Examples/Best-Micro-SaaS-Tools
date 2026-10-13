@@ -73,6 +73,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Podcast Maker](https://podcastmaker.ai): Transform written content into AI-generated audio.
 *   [Podtastic](https://podtastic.app/): Podtastic is a podcast player powered by Pod-telligence.
 *   [Remusic](https://remusic.ai/en): Create songs with one click.
+*   [Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle): Chrome extension that scans web images, videos, and audio for AI-generated or manipulated media.
 *   [Smartshort](https://smartshort.co/): AI tool that creates short videos from text without filming.
 *   [Transgate](https://transgate.ai/): Quick, accurate speech-to-text tool that works in 50+ languages.
 *   [TranslateSRT.online](https://translatesrt.online/): Translate .SRT subtitles with ChatGPT.
