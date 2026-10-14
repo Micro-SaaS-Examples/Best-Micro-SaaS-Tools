@@ -397,6 +397,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [TrackingCoder](https://trackingcoder.com/): Set up website tracking in 2 minutes, not 2 hours.
 *   [Truelist](https://truelist.io/): Unlimited email validation for better marketing performance.
 *   [Vesta](https://www.vesta-app.com/): Transform your content into multiple platform-specific formats.
+*   [Warmerly](https://warmerly.com): Email warmup and cold outreach with flat pricing and a free plan.
 *   [Wave Instagram Outreach](https://www.usewave.co/): Automate Instagram DMs to find prospects and generate leads effortlessly.
 *   [XHSPlus](https://xhsplus.io): Efficiently create and optimize Xiaohongshu notes with AI tools.
 *   [markero](https://markero.com/): marketing made easy!.
