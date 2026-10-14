@@ -390,6 +390,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Slate](https://slatehq.com/): Automation platform for SEO, Web and Content Teams.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
+*   [TeleTraff](https://teletraff.com/en): Browser panel for Telegram promotion and advertising with AI comments on channel posts, inviting, DM campaigns and AI dialogs with leads.
 *   [THunt](https://thunt.ai/): Free tool to increase Temu sales.
 *   [Toksta](https://www.toksta.com): B2B Influencer Marketing Platform.
 *   [Top SaaS Directories](https://topsaasdirectories.com/): 100+ Top Directories and Launch Platforms to List your SaaS.
