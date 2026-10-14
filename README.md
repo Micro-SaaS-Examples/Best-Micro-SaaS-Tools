@@ -64,6 +64,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [EchoWave](https://echowave.io): Online video editor.
 *   [FILMPAC](https://www.filmpac.com/): Premium stock footage and music for high-quality, authentic storytelling.
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
+*   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
