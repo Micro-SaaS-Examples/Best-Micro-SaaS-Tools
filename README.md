@@ -281,6 +281,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [BondSmartly](https://www.bondsmartly.com/): Simplify bond investing with real-time data, analysis, and powerful tools.
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses.
 *   [CryptoCardHub](https://www.cryptocardhub.com/): Compare crypto cards based on your real spending to maximize rewards.
+*   [Fakturcho](https://www.fakturcho.com/en): EU-compliant invoicing with VAT by country and national e-invoice XML, paid per document.
 *   [Global Guru Capital](https://www.globalgurucap.com/): Discover microcap stocks primed for explosive growth with proven QVM strategy.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
 *   [NAYA](https://naya.finance/): AI-powered platform automating financial reconciliation, compliance, and ledger management for fintechs.
