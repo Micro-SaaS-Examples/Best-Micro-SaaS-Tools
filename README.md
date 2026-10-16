@@ -413,8 +413,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [BorderSense](https://bordersense.xyz/): Precision visa tracker and passport diary.
 *   [Chrome Reader Mode](https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en): Remove ads from web pages for clean, easy reading.
 *   [Coin Newsify](https://www.coinewsify.ai): AI powered crypto news platform for quick and smart trading decisions.
-*   [Doc2X](https://doc2x.noedgeai.com/): AI document parsing and translation; PDF/images to Word, Markdown and LaTeX with formula/table recognition. Free trial, paid memberships/credits and per-page API.
 *   [Digital Notes](https://digitalnotes.com): Offline-ready notes sync automatically, link ideas, and ensure seamless organization.
+*   [Doc2X](https://doc2x.noedgeai.com/): AI document parsing and translation; PDF/images to Word, Markdown and LaTeX with formula/table recognition. Free trial, paid memberships/credits and per-page API.
 *   [Endura](https://www.endura.digital/): Digital Estate Manager.
 *   [FixRAgent](https://fixragent.com/): AI visual triage for property managers. Stop blind service calls.
 *   [Gixo Lumen](https://gixo.ai/lumen): AI Presentation Maker That Builds Editable, Reviewable Decks.
