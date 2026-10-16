@@ -99,6 +99,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
 *   [Hissa](https://www.hissa.com/): ESOP Administration and Management Platform.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
+*   [Kite Delivery Date picker](https://kitelane.com/): Pickup and delivery date picker for Shopify merchants.
 *   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
