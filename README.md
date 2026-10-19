@@ -97,6 +97,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [GOSH](https://gosh.app): Free AI price tracker that alerts you when prices drop.
+*   [Helmpages](https://helmpages.com/): Builds and updates websites for independent professionals and small businesses; you send changes by message and approve them before they go live. Paid, from $29/month.
 *   [Hissa](https://www.hissa.com/): ESOP Administration and Management Platform.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Kite Delivery Date picker](https://kitelane.com/): Pickup and delivery date picker for Shopify merchants.
