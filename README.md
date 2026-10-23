@@ -468,6 +468,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [IGExporter](https://igexporter.net): Export Instagram follower data easily with no login and gain insights for better engagement.
 *   [Mooji](https://www.moojiapp.com): Simple Apple Watch status sharing that keeps close friends connected.
 *   [Move](https://m0ve.app): Events, calendars & groups into one simple platform.
+*   [OpenSparta](https://opensparta.com/en): Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 *   [PostPuma](https://postpuma.com): Social media management with AI-driven tools and automation.
 *   [SNSTracker](https://snstracker.com/): Track and analyze social media performance across multiple platforms in real time.
 *   [Storyy](https://storyy.co/): Social media content team blending AI and creatives for consistent brand growth.
