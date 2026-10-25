@@ -249,6 +249,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Xora](https://xora.sh/): Cloud FFmpeg API for media jobs.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) : 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ### Education
 
