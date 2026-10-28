@@ -150,6 +150,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Keeping](https://www.keeping.com/): Turns Google Workspace Into Your Team’s Help Desk.
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent.
 *   [Rosie](https://heyrosie.com/): AI Phone Answering Service.
+*   [SwiftCall](https://swiftcall.org/ai-agents): AI agents for small businesses, starting with a phone agent that answers, qualifies and books calls.
 *   [Swiftsell AI](https://swiftsellai.com/): Voice and WhatsApp AI Agents for Services Businesses.
 *   [Vidocu](https://vidocu.ai/): Turn screen recordings into professional videos and documentation.
 *   [VirtualReception.AI](https://virtualreception.ai/): Your AI Answering Service. Never Miss a Call.
