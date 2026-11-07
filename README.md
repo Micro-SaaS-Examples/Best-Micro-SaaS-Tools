@@ -355,6 +355,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [CowboyQuote](https://cowboyquote.com/): Door-to-door sales with digital quotes and personalized customer interactions.
 *   [CrawlRaven](https://www.crawlraven.com/): Professional SEO audits with 200+ checks and prioritized fixes.
 *   [dnAI](https://humandnai.com/): Brand-first AI marketing platform.
+*   [Dotdat.AI](https://dotdat.ai/): All-in-one AI marketing platform. Rank, publish, and get cited.
 *   [Find Me Creators](https://www.findmecreators.com/database): The most powerful and affordable TikTok micro-influencer database.
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [FundedIQ](https://fundediq.co/): Database of freshly funded startups that are ready to hire agencies
