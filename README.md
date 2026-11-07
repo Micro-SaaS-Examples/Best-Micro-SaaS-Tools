@@ -46,6 +46,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Patronum](https://www.patronum.io): Streamline Google Workspace management with automated compliance, governance, and collaboration tools.
 *   [Poison Pill](https://poisonpill.ai): Invisible protection against AI training.
 *   [Poshwatch](https://poshwatch.io/): Task automation tool for resellers.
+*   [QueryBear](https://querybear.com): Secure database access for AI agents, wrapped in a security layer you control.
 *   [RabbitHoles AI](https://www.rabbitholes.ai): Infinite canvas for AI conversations.
 *   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams
 *   [Shopme Agent](https://shopmeagent.com/): A next-gen shopping assistant that helps you find, compare, and buy products across Chinese and global platforms, including factory-direct sources, all in one place.
