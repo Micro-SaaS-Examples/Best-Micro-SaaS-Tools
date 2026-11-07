@@ -20,6 +20,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 - [Social](#social)
 - [Writing](#writing)
 
+- [QantaraTools](https://www.qantaratools.com) - Fast, privacy-first client-side web utilities.
+- 
 ---
 
 ### AI & Automation
