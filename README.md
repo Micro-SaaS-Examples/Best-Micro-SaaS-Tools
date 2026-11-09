@@ -374,6 +374,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Lunroo](https://lunroo.com): Free AI Tools for Social Media Marketing.
 *   [Luthor](https://luthor.ai/): Grow organic traffic with programmatic SEO at scale.
 *   [ManuscriptReport](https://manuscriptreport.com/): Generate complete book marketing kits with blurbs, comps, ads, and more.
+*   [MEDIAPRONET](https://mediapronet.com/): Curated directory for discovering newly launched startups, SaaS tools and indie products.
 *   [Meshr](https://meshr.link/): Boost SEO with automated, intelligent internal linking for better engagement.
 *   [Modellix](https://www.modellix.ai/): All leading AI models. One API. Zero hassle.
 *   [MuckBrass](https://www.muckbrass.com/): Find & Validate Startup Ideas.
