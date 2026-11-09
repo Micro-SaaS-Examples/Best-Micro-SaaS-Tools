@@ -338,6 +338,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Ad Swipe File](https://adswipefile.com/): Free access to 22,423+ proven ads from Meta, TikTok, and more!
 *   [Adligator](https://adligator.com): AI tool for analyzing and optimizing competitor ad strategies.
+*   [AdVariq](https://advariq.com/): AI ad creative and banner generator for solo founders, marketers, and startups.
 *   [APAC Agencies](https://apacagencies.com): Discover the top creative and digital agencies in Asia Pacific.
 *   [AI One Pager Generator](https://venngage.com/ai-tools/one-pager-generator): AI-powered one-pager designs, fast and effortless.
 *   [AI Roadmap Generator](https://venngage.com/ai-tools/roadmap-generator): AI Roadmap Generator creates a visual, step-by-step roadmap instantly.
