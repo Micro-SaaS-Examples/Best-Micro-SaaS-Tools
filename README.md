@@ -266,6 +266,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [MMIPractice.org](https://www.mmipractice.org/): Free practice questions and AI coaching for MMI prep.
 *   [Notescast](https://notescast.app): Transform study materials into engaging, ADHD-friendly short-form educational videos.
 *   [Preschools Near Me](https://www.preschoolsnearme.org/): AI simplifies preschool search and applications with tailored recommendations for parents.
+*   [ProfScout](https://profscout.com): Find professors to email for research positions and grad school.
 *   [Small Talk](https://getsmalltalk.com/): Micro learning app delivers bite-sized daily knowledge effortlessly.
 *   [Socratic App](https://socraticapp.com/): AI homework helper that teaches students like a tutor.
 *   [Socratic Owl](https://apps.apple.com/us/app/socratic-owl-question-answer/id6502917782): AI study app that gives clear step-by-step homework help anytime.
