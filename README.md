@@ -392,6 +392,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Say About Us](https://sayabout.us/): Collect unlimited video and text testimonials.
 *   [Shosay](https://www.shosay.com): AI tool that collects and displays customer reviews in one place.
 *   [Shortimize](https://shortimize.com/): Track, Analyze & Explore short form content videos and accounts.
+*   [SitePatent](https://sitepatent.com/): Directory of startups, tools and online products, organized by category and tech stack.
 *   [Slate](https://slatehq.com/): Automation platform for SEO, Web and Content Teams.
 *   [Social Growth Engineers](https://www.socialgrowthengineers.com/): Best free resource for unique app growth strategies and daily tips.
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
