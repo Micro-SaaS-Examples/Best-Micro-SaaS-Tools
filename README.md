@@ -66,6 +66,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
 *   [Gleam Audio](https://gleamaudio.com/): On-device AI cleanup, enhance, editor for voice and audio.
 *   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
+*   [JME Freestyle AI](https://jmeukrap.com/): Turn one photo into a 15-second vertical rap video using ready-made scene templates.
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
