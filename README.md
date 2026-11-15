@@ -317,6 +317,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [MyNextInk](https://www.mynextink.com): The all-in-one tattoo platform
 *   [Paralino](https://paralino.com/): Private, encrypted location sharing app for families, travelers, and privacy-conscious users.
 *   [Presence](https://presence.app/): Meditation app with expert guidance for daily peace and wellness.
+*   [Sammi: AI Girlfriend](https://sammiai.app/): Android fictional AI character chat with voice interaction, customization and creative roleplay; free download with in-app purchases.
 *   [Shelter](https://getshelter.co/): Securely store and share important info so loved ones can access it.
 *   [Tatship](https://tatship.com): Plan tattoos easily with virtual tools for design, placement, and size.
 *   [Toolstash](https://toolstash.com): Track, lend & borrow tools.
