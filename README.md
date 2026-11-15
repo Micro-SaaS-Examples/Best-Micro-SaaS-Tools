@@ -54,6 +54,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Voice Command](https://myextension.store/voice-command/): Control your browser with voice commands for faster, hands-free browsing.
 *   [Zippy Delivery](https://zippydelivery.app/): Automatically upload Zoom recordings to YouTube with smart titles and summaries.
 *   [Zolltarifnummer.com](https://www.zolltarifnummer.com/): Find and verify the right 11-digit German customs tariff number.
+*   [No Stairs Please MCP](https://nostairsplease.com/mcp): Live music venue directory and remote MCP server for bands and tour managers.
 
 ### Audio & Video
 
