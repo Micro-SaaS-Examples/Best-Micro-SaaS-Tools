@@ -62,6 +62,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [ContentStudio AI](https://contentstudioai.com): Transform Your Ideas into Automated Videos with AI.
 *   [Earth.fm app](https://earth.fm/app/): The nature soundscapes streaming platform.
 *   [EchoWave](https://echowave.io): Online video editor.
+*   [EraseNoise](https://erasenoise.com/): Browser tool that cleans noisy speech and lets you preview a short before-and-after before exporting the full file.
 *   [FILMPAC](https://www.filmpac.com/): Premium stock footage and music for high-quality, authentic storytelling.
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
 *   [Gleam Audio](https://gleamaudio.com/): On-device AI cleanup, enhance, editor for voice and audio.
