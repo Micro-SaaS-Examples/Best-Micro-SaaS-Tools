@@ -80,6 +80,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [TranslateSRT.online](https://translatesrt.online/): Translate .SRT subtitles with ChatGPT.
 *   [VideoFaceSwap](https://videofaceswap.io/): Simple tool to swap faces in videos and pictures.
 *   [Vimego](https://www.vimego.io/): Download and edit Vimeo videos for offline use and learning.
+*   [Vivify](https://vivify.video/realtime-face-swap): Real-time AI face swap, try-on, and restyle on webcam video.
 *   [VocalReplica](http://vocalreplica.com/): Remove Vocals and Isolate Instrumentals from Your Favorite Tracks.
 
 ### Business
