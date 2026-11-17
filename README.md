@@ -67,6 +67,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Gleam Audio](https://gleamaudio.com/): On-device AI cleanup, enhance, editor for voice and audio.
 *   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
+*   [LyricsGift](https://lyricsgift.com/): AI-written personalised songs from a story you type, with lyrics approved line by line (paid, one-time from A$39).
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Outlier Kit](https://outlierkit.com/): Find profitable YouTube niches and keywords with low competition, high revenue.
