@@ -105,6 +105,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [MagicTask](https://magictask.io/): Turn tasks into a fun game with points, rewards, and leaderboards.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
+*   [Nizlo](https://nizlo.com/): Windows-first remote monitoring and IT management for MSPs and lean IT teams.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Plotzy](https://plotzy.ai): AI Co-Pilot For The Commercial Real Estate Industry.
 *   [ProxDeal](https://proxdeal.com): AI tool simplifies M&A research, target identification, and personalized outreach.
