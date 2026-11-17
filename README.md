@@ -148,6 +148,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Beheard Labs](https://www.gobeheard.com/): AI-Powered Customer Insight Platform
 *   [Chat Thing](http://chatthing.ai/): Make AI chatbots in minutes.
 *   [Keeping](https://www.keeping.com/): Turns Google Workspace Into Your Team’s Help Desk.
+*   [HelloToSold](https://hellotosold.com/): AI sales agent for WhatsApp and social messaging that qualifies leads, answers questions, and follows up with potential customers.
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent.
 *   [Rosie](https://heyrosie.com/): AI Phone Answering Service.
 *   [Swiftsell AI](https://swiftsellai.com/): Voice and WhatsApp AI Agents for Services Businesses.
