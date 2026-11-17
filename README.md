@@ -427,6 +427,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [GuideToDocs](https://guidetodocs.com/): Step by step instructions creation tool.
 *   [Inbox2Action](https://inbox2action.com): Turn Emails into Tasks in Seconds.
 *   [Inbox Zapper](https://www.inboxzapper.com/): Your Digital Bouncer for Email Clutter.
+*   [HeyRobyn](https://heyrobyn.ai): Native Mac unified inbox for email, Slack, and GitHub in one window.
 *   [Kenteken Gids](https://www.kentekengids.nl): Dutch Car License Plate Checker.
 *   [Loggd](https://loggd.life/): Habit tracker and planner that helps you actually stick with it.
 *   [Mail Genie](https://mailgenie.io/): Clean your inbox by unsubscribing from newsletters and marketing emails.
