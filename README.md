@@ -1,4 +1,10 @@
-# Best Micro SaaS Tools
+
+
+---
+
+## 🧰 File Processing Tools
+
+- [EveryTool4U](https://everytool4u.com) — 108 free browser-based file tools: PDF (merge/split/compress/sign/OCR/redact), image (AI background removal, HEIC→JPG), video to GIF, QR codes, invoice generator, JSON formatter. All processing is 100% local — zero upload, no account.# Best Micro SaaS Tools
 
 A curated list of awesome tools for marketing, development, productivity, and more. Each tool is listed in its single most relevant category.
 
