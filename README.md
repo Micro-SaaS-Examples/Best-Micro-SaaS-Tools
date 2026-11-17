@@ -68,6 +68,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
 *   [Inner Vision Pro](http://innervision.pro/): A free, surprisingly effective alternative to the Vision Pro.
 *   [Make It Quick](https://makeitquick.ai/): Create professional videos from text without complex editing.
+*   [MotionCasa](https://motioncasa.com/): Turns real-estate listing photos into short property videos.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Outlier Kit](https://outlierkit.com/): Find profitable YouTube niches and keywords with low competition, high revenue.
 *   [PodcastAdBlock](https://podcastadblock.app/): Remove ads from any podcast feed with AI.
