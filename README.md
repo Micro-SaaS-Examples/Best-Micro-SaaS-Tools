@@ -413,6 +413,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [AI-Translate.online](https://ai-translate.online): An online service for translating documents while preserving formatting.
 *   [AISaver](https://aisaver.io): Free AI tool for video downloads, face swaps, and enhancements.
 *   [Alai](https://getalai.com): Create high quality presentations with AI.
+*   [Bracket Maker](https://bracketmaker.co/): Tournament brackets with live scoring: single and double elimination, round robin and Swiss, free up to 32 teams.
 *   [Brackets Maker App](https://brackets.app/): Tournament brackets generator: round robin, single & double elimination.
 *   [BorderSense](https://bordersense.xyz/): Precision visa tracker and passport diary.
 *   [Chrome Reader Mode](https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en): Remove ads from web pages for clean, easy reading.
