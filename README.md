@@ -192,6 +192,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Pawtrait](https://www.pawtrait.art/): Custom AI pet portraits in 30+ styles.
 *   [PimpMySnap](https://pimpmysnap.com): Transform screenshots with animations, custom backgrounds, highlights, frames, and text.
 *   [Pixvify AI](https://pixvify.com/): Free AI photo generator.
+*   [Room Meadow](https://roommeadow.com/): Draw floor plans to scale and redesign room photos with AI.
 *   [Rupert AI](https://www.getrupert.com/): Train custom AI models and automate marketing workflows.
 *   [Unblurimage AI](https://unblurimage.ai/): Enhance photos using AI, making blurry pictures clear and beautiful.
 *   [Velocity](https://www.figma.com/community/plugin/1397952939678206595/ai-design-reviews-user-simulations-then-human-feedback-1min): Instant AI-powered UX feedback for prototypes directly inside Figma.
