@@ -58,6 +58,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Audio & Video
 
 *   [Aeon](https://project-aeon.com/): AI-powered platform that simplifies video creation with text-to-video and automation tools.
+*   [Arcmira](https://arcmira.com): YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. [API docs](https://arcmira.com/docs).
 *   [Awesome Video Editor](https://awesomevideoeditor.com/): Simple tool for adding video subtitles quickly.
 *   [ContentStudio AI](https://contentstudioai.com): Transform Your Ideas into Automated Videos with AI.
 *   [Earth.fm app](https://earth.fm/app/): The nature soundscapes streaming platform.
