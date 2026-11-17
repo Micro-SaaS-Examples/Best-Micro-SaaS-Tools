@@ -123,6 +123,8 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Your eCom Agent](https://yourecomagent.com/): AI Tools for Amazon Sellers.
 *   [boardcycle](https://www.boardcycle.com/): Automated board meeting platform for efficient agenda and minute management.
 *   [goDeskless](https://godeskless.com/): AI-driven goDeskless optimizes field service and boosts customer satisfaction.
+- [QantaraTools](https://www.qantaratools.com) - Fast, privacy-first client-side web utilities.
+- 
 
 ### Career & HR
 
