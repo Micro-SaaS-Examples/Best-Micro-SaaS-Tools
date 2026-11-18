@@ -219,6 +219,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Magic Potion](https://www.magicpotion.app/): Visual drag-and-drop tool for building and testing AI prompts easily.
 *   [Miruni](https://www.miruni.io): Streamlines website feedback and tasks for developers and agencies via live collaboration.
 *   [Mocha](https://getmocha.com/): Build websites easily from ideas without needing any coding experience.
+*   [MoeRouter](https://moerouter.com/): Call multiple language models through one API key with usage-based CNY billing.
 *   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization.
 *   [NativeBridge](https://nativebridge.io/): Run native mobile apps in any browser instantly with a single link.
 *   [Nearbase](https://nearbase.dev/): Affordable managed Postgres in Asia.
