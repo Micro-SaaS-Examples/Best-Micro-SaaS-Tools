@@ -248,6 +248,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Type Think AI](https://typethink.ai/): Your Gateway to AI Models & Tools.
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Xora](https://xora.sh/): Cloud FFmpeg API for media jobs.
+*   [ZoneBI](https://zonebi.com/?src=gh-micro-saas-tools-en-01): Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, email authentication (SPF, DKIM, DMARC) and Spamhaus blocklists, with status pages. Free plan for 3 domains.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
 
 ### Education
