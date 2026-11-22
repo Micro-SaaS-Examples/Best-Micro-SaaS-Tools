@@ -203,6 +203,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 ### Developer Tools
 
 *   [Best SaaS Boilerplates](https://saasboilerplates.dev): Curated boilerplates to simplify and accelerate SaaS development.
+*   [BrandShield](https://brand-checker.appwrite.network/namer): Free startup name generator and live .com/.ai/.io RDAP domain and USPTO trademark screener with zero signup.
 *   [BugSmash](https://bugsmash.io/): Collaborative tool for seamless feedback, annotations, and project reviews across teams.
 *   [CaptureKit](https://www.capturekit.dev/): Powerful API for automating web content extraction and screenshot capture.
 *   [ChatterBox](https://chatter-box.io/): Connect your software to Zoom, Meet, and Teams through one API.
