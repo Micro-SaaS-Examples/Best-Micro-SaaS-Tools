@@ -86,6 +86,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 
 *   [Alquilame](https://alquilame.io/): Simple rental management with WhatsApp booking and zero commission fees.
 *   [Bricks](https://www.thebricks.com): AI-powered spreadsheet that simplifies complex tasks with natural language.
+*   [CUBE](https://www.cube.ms/): CUBE is a Common Data Environment and construction project management platform for AEC teams that need document control, model coordination, and project delivery without the overhead of a large enterprise system.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dibze](https://www.dibze.com/): Dibze is the most accurate housing site in Chicago. For Sale & For Rent.
 *   [Digital Downloads App](https://digital-downloads-app.com): Digital Downloads App helps to deliver PDF, ebooks, and more to customers
