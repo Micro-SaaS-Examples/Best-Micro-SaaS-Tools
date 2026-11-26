@@ -185,6 +185,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Device Mockup](https://devicemockup.com): We offer high quality premium device mockup for free.
 *   [DreamLADU](https://www.dreamladu.com/): Create and customize realistic ADU designs instantly using simple text descriptions.
 *   [Ecommerce Design](https://ecomm.design/): Curated gallery of 4,000+ ecommerce website designs for inspiration.
+*   [EnhancePhoto](https://enhancephoto.org/image-upscaler): AI photo enhancer, 4K image upscaler, and old photo restoration tool.
 *   [FLUX AI ART](https://fluxaiart.ai/): AI-powered platform for image generation, editing, and free unlimited storage.
 *   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
 *   [Gixo Prism](https://gixo.ai/prism): AI Charts, Diagrams, And Infographics That Stay Data-Exact.
