@@ -229,6 +229,7 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Omnara](https://omnara.com/): The open-source API for production-ready AI agents.
 *   [Open Source Alternatives](https://www.opensourcealternatives.to): Handpicked Open Source Alternatives to Paid Softwares.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
+*   [Panoply](https://panoply.io/): Independent directory of data tools.
 *   [PassVult](https://passvult.com/): Secure password manager that protects your data locally, offline.
 *   [PostPeer](https://www.postpeer.dev/): Social media posting API for cross-platform posting and scheduling.
 *   [Proxed.AI](https://proxed.ai/): Secure AI APIs in iOS with simple URL and key updates instantly.
@@ -250,7 +251,6 @@ A curated list of awesome tools for marketing, development, productivity, and mo
 *   [Work Type Focus](https://worktypefocus.com/): Classify and visualize Jira work to stay focused and foster innovation.
 *   [Xora](https://xora.sh/): Cloud FFmpeg API for media jobs.
 *   [Zuzia.app](https://zuzia.app/): Monitor Linux servers, automate tasks, and get alerts — no SSH needed.
-*   [Panoply](https://panoply.io/): Independent directory of data tools.
 
 ### Education
 
